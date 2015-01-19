@@ -27,10 +27,7 @@
         "Language": "1044",
         "Name": "Prosjektportal rotområde",
         "Lists": [],
-        "Properties": {
-            "sherpaversion": "1.0.0.0",
-            "SRCH_ENH_FTR_URL_SITE": "/searchsite",
-            "SRCH_ENH_FTR_URL": "/searchsite"
+        "Properties": {        
         },
         "Quicklaunch": {
             "Hjem": "",
