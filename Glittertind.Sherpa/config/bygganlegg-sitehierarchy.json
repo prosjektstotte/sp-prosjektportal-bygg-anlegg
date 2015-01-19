@@ -64,6 +64,11 @@
                 "FeatureName": "Glittertind.SharePoint.Catalog_WebCatalogSitePages"
             }
         ],
+		 "CustomTaskTypes" :  [
+           {
+               Fullname :  "DeleteDefaultDocuments.Task"
+           }
+       ],
         "Webs": [ ]
     }
 }
