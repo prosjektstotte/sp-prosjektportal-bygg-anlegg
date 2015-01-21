@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ac278f21-c2b6-43a0-97c1-0fdc7d3101f0" solutionId="ac278f21-c2b6-43a0-97c1-0fdc7d3101f0" resetWebServer="false" sharePointProductVersion="15.0" name="Spiterstulen.SharePoint" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="6768f7f6-2576-40a0-8e71-8faf058b1813" projectPath="..\Spiterstulen.SharePoint.Catalog\Spiterstulen.SharePoint.Catalog.csproj" />
+  </features>
+</package>
