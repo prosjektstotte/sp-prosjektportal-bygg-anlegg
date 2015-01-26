@@ -13,6 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiterstulen.SharePoint.Dep
 		{B3001546-1CCA-46EC-8285-8C7A0B7B6952} = {B3001546-1CCA-46EC-8285-8C7A0B7B6952}
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SherpaConfig", "SherpaConfig", "{CA7CED3C-4419-4184-99F5-E24FED98C22A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Spiterstulen.Sherpa\config\bygganlegg-contenttypes.json = ..\..\Spiterstulen.Sherpa\config\bygganlegg-contenttypes.json
+		..\..\Spiterstulen.Sherpa\config\bygganlegg-fields.json = ..\..\Spiterstulen.Sherpa\config\bygganlegg-fields.json
+		..\..\Spiterstulen.Sherpa\config\bygganlegg-sitehierarchy.json = ..\..\Spiterstulen.Sherpa\config\bygganlegg-sitehierarchy.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

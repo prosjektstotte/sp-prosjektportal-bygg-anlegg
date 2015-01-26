@@ -13,15 +13,15 @@ namespace DeleteDefaultDocuments
 
             var web = context.Site.RootWeb;
             var list = web.Lists.GetByTitle("Standarddokumenter");
-            list.DeleteObject();
+            var items = list.GetItems(CamlQuery.CreateAllItemsQuery());
+            context.Load(items);
             context.ExecuteQuery();
             
-            //var featureId = new Guid("94c94ca6-b32f-4da9-a9e3-1f3d343d7ecb");
-            //var features = context.Web.Features;
-            //features.Add(featureId, true, FeatureDefinitionScope.None);
-
-        
+            for(int i=items.Count-1;i>=0;i--)
+            {
+                items[i].DeleteObject();
+            }
+            context.ExecuteQuery();
         }
-        
     }
 }

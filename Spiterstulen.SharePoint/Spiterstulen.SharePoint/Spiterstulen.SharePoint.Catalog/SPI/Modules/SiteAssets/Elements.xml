@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="SiteAssets" Path="SiteAssets" Url="SiteAssets/gt">
+    <File Path="config\data\oppgaver.data.json" Url="config/data/oppgaver.data.txt" Type="GhostableInLibrary" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE" />
+    <File Path="config\data\fasesjekkliste.data.json" Url="config/data/fasesjekkliste.data.json" />
+    <File Path="js\customsteps.js" Url="js/customsteps.js" Type="GhostableInLibrary" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE" />
+  </Module>
+</Elements>

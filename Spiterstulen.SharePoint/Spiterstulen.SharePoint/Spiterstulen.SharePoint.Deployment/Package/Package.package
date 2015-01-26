@@ -2,6 +2,7 @@
 <package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ac278f21-c2b6-43a0-97c1-0fdc7d3101f0" solutionId="ac278f21-c2b6-43a0-97c1-0fdc7d3101f0" resetWebServer="false" sharePointProductVersion="15.0" name="Spiterstulen.SharePoint" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
   <features>
     <featureReference itemId="6768f7f6-2576-40a0-8e71-8faf058b1813" projectPath="..\Spiterstulen.SharePoint.Catalog\Spiterstulen.SharePoint.Catalog.csproj" />
+    <featureReference itemId="9e4a0ac1-e96c-4a8c-a67f-f7ae8aeee385" projectPath="..\Spiterstulen.SharePoint.Catalog\Spiterstulen.SharePoint.Catalog.csproj" />
     <featureReference itemId="002f6c74-83e0-4d1c-ab48-a2072c5265fb" projectPath="..\Spiterstulen.SharePoint.Project\Spiterstulen.SharePoint.Project.csproj" />
   </features>
 </package>

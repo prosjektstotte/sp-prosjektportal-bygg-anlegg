@@ -52,7 +52,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Features\WebByggDefaultDocs\WebByggDefaultDocs.feature">
+    <None Include="Features\SiteByggSiteAssets\SiteByggSiteAssets.feature">
+      <FeatureId>{9e4a0ac1-e96c-4a8c-a67f-f7ae8aeee385}</FeatureId>
+    </None>
+    <None Include="SPI\Modules\SiteAssets\config\data\oppgaver.data.json" />
+    <Content Include="Features\SiteByggSiteAssets\SiteByggSiteAssets.Template.xml">
+      <DependentUpon>SiteByggSiteAssets.feature</DependentUpon>
+    </Content>
+    <None Include="SPI\Modules\SiteAssets\config\data\fasesjekkliste.data.json" />
+    <Content Include="SPI\Modules\SiteAssets\js\customsteps.js" />
+    <Content Include="SPI\Modules\SiteAssets\Elements.xml" />
+    <None Include="Features\WebByggLists\WebByggLists.feature">
       <FeatureId>{6768f7f6-2576-40a0-8e71-8faf058b1813}</FeatureId>
     </None>
     <None Include="key.snk" />
@@ -69,11 +79,14 @@
     <None Include="SPI\Modules\DefaultDocuments\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{98260faa-7bd5-46c7-8a85-7d962a551af0}</SharePointProjectItemId>
     </None>
+    <None Include="SPI\Modules\SiteAssets\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3907f1ae-ec7f-4484-a0cd-0476e1b836e1}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <Content Include="Features\WebByggDefaultDocs\WebByggDefaultDocs.Template.xml">
-      <DependentUpon>WebByggDefaultDocs.feature</DependentUpon>
+    <Content Include="Features\WebByggLists\WebByggLists.Template.xml">
+      <DependentUpon>WebByggLists.feature</DependentUpon>
     </Content>
     <Content Include="SPI\Lists\Standarddokumenter\Elements.xml">
       <SubType>Designer</SubType>
