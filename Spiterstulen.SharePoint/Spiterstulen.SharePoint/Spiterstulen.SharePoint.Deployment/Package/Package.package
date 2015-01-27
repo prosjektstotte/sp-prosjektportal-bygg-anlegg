@@ -3,6 +3,5 @@
   <features>
     <featureReference itemId="6768f7f6-2576-40a0-8e71-8faf058b1813" projectPath="..\Spiterstulen.SharePoint.Catalog\Spiterstulen.SharePoint.Catalog.csproj" />
     <featureReference itemId="9e4a0ac1-e96c-4a8c-a67f-f7ae8aeee385" projectPath="..\Spiterstulen.SharePoint.Catalog\Spiterstulen.SharePoint.Catalog.csproj" />
-    <featureReference itemId="002f6c74-83e0-4d1c-ab48-a2072c5265fb" projectPath="..\Spiterstulen.SharePoint.Project\Spiterstulen.SharePoint.Project.csproj" />
   </features>
 </package>

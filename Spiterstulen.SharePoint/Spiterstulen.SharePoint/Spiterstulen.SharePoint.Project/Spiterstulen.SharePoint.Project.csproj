@@ -52,9 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Features\WebByggProjectLists\WebByggProjectLists.feature">
-      <FeatureId>{002f6c74-83e0-4d1c-ab48-a2072c5265fb}</FeatureId>
-    </None>
     <None Include="key.snk" />
     <None Include="Package\Package.package">
       <PackageId>{e91fec24-9c9b-4d76-80e0-ec96eee44a5b}</PackageId>
@@ -62,16 +59,10 @@
     <None Include="Package\Package.Template.xml">
       <DependentUpon>Package.package</DependentUpon>
     </None>
-    <None Include="SPI\Lists\Dokumenter\SharePointProjectItem.spdata">
-      <SharePointProjectItemId>{9dac98e2-20a0-4a0c-ba49-455b34cb8a05}</SharePointProjectItemId>
-    </None>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Content Include="Features\WebByggProjectLists\WebByggProjectLists.Template.xml">
-      <DependentUpon>WebByggProjectLists.feature</DependentUpon>
-    </Content>
-    <Content Include="SPI\Lists\Dokumenter\Elements.xml" />
+    <Folder Include="Features\" />
+    <Folder Include="SPI\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

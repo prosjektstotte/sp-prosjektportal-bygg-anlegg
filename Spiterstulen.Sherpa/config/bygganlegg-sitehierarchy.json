@@ -29,15 +29,15 @@
             "Hjem": "",
             "Porteføljeoversikt": "SitePages/PortefoljeOversiktAlternativ.aspx",
             "Erfaringslogg": "SitePages/Erfaringslogg.aspx",
-            "Standarddokumenter": "Standarddokumenter",
-            "Områdeinnhold": "_layouts/15/viewlsts.aspx"
+            "Standarddokumenter": "Standarddokumenter"
         },
         "Template": "",
         "Url": "/",
         "WebFeatures": [
             {
                 "FeatureId": "dff08d67-9691-4e65-a21d-1b29faa4ce16",
-                "FeatureName": "Spiterstulen.SharePoint.Catalog_WebByggLists"
+                "FeatureName": "Spiterstulen.SharePoint.Catalog_WebByggLists",
+                "ReactivateAlways": "true"
             }
         ],
 		 "CustomTaskTypes" :  [

@@ -60,6 +60,8 @@
       <DependentUpon>SiteByggSiteAssets.feature</DependentUpon>
     </Content>
     <None Include="SPI\Modules\SiteAssets\config\data\fasesjekkliste.data.json" />
+    <None Include="SPI\Modules\SiteAssets\config\quicklaunch\quicklaunch.json" />
+    <Content Include="SPI\Modules\SiteAssets\config\defaultfolders\folders.txt" />
     <Content Include="SPI\Modules\SiteAssets\js\customsteps.js" />
     <Content Include="SPI\Modules\SiteAssets\Elements.xml" />
     <None Include="Features\WebByggLists\WebByggLists.feature">
@@ -72,9 +74,6 @@
     <None Include="Package\Package.Template.xml">
       <DependentUpon>Package.package</DependentUpon>
     </None>
-    <None Include="SPI\Lists\Standarddokumenter\SharePointProjectItem.spdata">
-      <SharePointProjectItemId>{b9e486aa-639b-42c0-b187-9080cb3d2c03}</SharePointProjectItemId>
-    </None>
     <Content Include="SPI\Modules\DefaultDocuments\Samleskjema mappestruktur PRU.doc" />
     <None Include="SPI\Modules\DefaultDocuments\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{98260faa-7bd5-46c7-8a85-7d962a551af0}</SharePointProjectItemId>
@@ -83,13 +82,12 @@
       <SharePointProjectItemId>{3907f1ae-ec7f-4484-a0cd-0476e1b836e1}</SharePointProjectItemId>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="SPI\Lists\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Features\WebByggLists\WebByggLists.Template.xml">
       <DependentUpon>WebByggLists.feature</DependentUpon>
-    </Content>
-    <Content Include="SPI\Lists\Standarddokumenter\Elements.xml">
-      <SubType>Designer</SubType>
     </Content>
     <Content Include="SPI\Modules\DefaultDocuments\Elements.xml" />
   </ItemGroup>

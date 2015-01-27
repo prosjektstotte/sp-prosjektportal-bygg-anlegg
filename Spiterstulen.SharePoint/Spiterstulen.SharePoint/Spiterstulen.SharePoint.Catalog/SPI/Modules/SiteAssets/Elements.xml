@@ -2,7 +2,9 @@
 <Elements xmlns="http://schemas.microsoft.com/sharepoint/">
   <Module Name="SiteAssets" Path="SiteAssets" Url="SiteAssets/gt">
     <File Path="config\data\oppgaver.data.json" Url="config/data/oppgaver.data.txt" Type="GhostableInLibrary" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE" />
-    <File Path="config\data\fasesjekkliste.data.json" Url="config/data/fasesjekkliste.data.json" />
+    <File Path="config\data\fasesjekkliste.data.json" Url="config/data/fasesjekkliste.data.txt" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE"  />
     <File Path="js\customsteps.js" Url="js/customsteps.js" Type="GhostableInLibrary" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE" />
+    <File Path="config\quicklaunch\quicklaunch.json" Url="config/quicklaunch/quicklaunch.txt" ReplaceContent="TRUE" IgnoreIfAlreadyExists="FALSE" />
+    <File Path="config\defaultfolders\folders.txt" Url="config/defaultfolders/folders.txt" ReplaceContent="FALSE" IgnoreIfAlreadyExists="FALSE" />
   </Module>
 </Elements>
