@@ -4,20 +4,8 @@
         "Title": "Hjem"
     },
     {
-        "Url": "Lists/Prosjektlogg",
-        "Title": "Prosjektlogg"
-    },
-    {
         "Url": "Lists/Interessentregister",
         "Title": "Interessentregister"
-    },
-    {
-        "Url": "Lists/Kommunikasjonsplan",
-        "Title": "Kommunikasjonsplan"
-    },
-    {
-        "Url": "Lists/Usikkerhet",
-        "Title": "Usikkerhet"
     },
     {
         "Url": "Lists/Oppgaver",
@@ -38,10 +26,6 @@
     {
         "Url": "SitePages/Ufiltrert.aspx",
         "Title": "Forside alle faser"
-    },    
-    {
-        "Url": "{SiteUrl}/_layouts/15/osssearchresults.aspx?u={SiteUrlEncoded}&k=owstaxIdGtProjectPhase%3A%22Ingen%20fase%22",
-        "Title": "Prosjektelementer uten fase"
     },
     {
         "Url": "SitePages/Tilordnet.aspx",

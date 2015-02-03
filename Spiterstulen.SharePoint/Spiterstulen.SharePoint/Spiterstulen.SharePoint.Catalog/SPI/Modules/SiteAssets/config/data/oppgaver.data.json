@@ -677,7 +677,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i fasen"
+                        "Value": "Dokumenter som skal produseres i prosjekteringsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -1353,7 +1353,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i fasen"
+                        "Value": "Dokumenter som skal produseres i kontraheringsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -1875,7 +1875,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i fasen"
+                        "Value": "Dokumenter som skal produseres i anleggsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -1891,7 +1891,7 @@
                         "Fields": [
                             {
                                 "Name": "Title",
-                                "Value": "Dokumenter som skal produseres og arkiveres i anleggsfasen"
+                                "Value": "Dokumenter som skal produseres av prosjektleder"
                             },
                             {
                                 "Name": "GtProjectPhase",
@@ -2571,7 +2571,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i fasen"
+                        "Value": "Dokumenter som skal produseres i overleveringsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
