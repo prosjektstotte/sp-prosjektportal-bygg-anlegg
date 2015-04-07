@@ -7,5 +7,7 @@
     <ProjectItemFile Source="js\customsteps.js" Target="SiteAssets\js\" Type="ElementFile" />
     <ProjectItemFile Source="config\quicklaunch\quicklaunch.json" Target="SiteAssets\config\quicklaunch\" Type="ElementFile" />
     <ProjectItemFile Source="config\defaultfolders\folders.txt" Target="SiteAssets\config\defaultfolders\" Type="ElementFile" />
+    <ProjectItemFile Source="css\gt.style.css" Target="SiteAssets\css\" Type="ElementFile" />
+    <ProjectItemFile Source="js\gt.project.js" Target="SiteAssets\js\" Type="ElementFile" />
   </Files>
 </ProjectItem>

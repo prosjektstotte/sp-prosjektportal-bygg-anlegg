@@ -52,6 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SPI\Modules\SiteAssets\js\gt.project.js" />
     <None Include="Features\SiteByggSiteAssets\SiteByggSiteAssets.feature">
       <FeatureId>{9e4a0ac1-e96c-4a8c-a67f-f7ae8aeee385}</FeatureId>
     </None>
@@ -62,6 +63,7 @@
     <None Include="SPI\Modules\SiteAssets\config\data\fasesjekkliste.data.json" />
     <None Include="SPI\Modules\SiteAssets\config\quicklaunch\quicklaunch.json" />
     <Content Include="SPI\Modules\SiteAssets\config\defaultfolders\folders.txt" />
+    <Content Include="SPI\Modules\SiteAssets\css\gt.style.css" />
     <Content Include="SPI\Modules\SiteAssets\js\customsteps.js" />
     <Content Include="SPI\Modules\SiteAssets\Elements.xml" />
     <None Include="Features\WebByggLists\WebByggLists.feature">
