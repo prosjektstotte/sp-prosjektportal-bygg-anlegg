@@ -12,7 +12,8 @@
       "F0",
       "F1",
       "F2",
-      "F3"
+      "F3",
+      "Ikke relevant"
     ]
   },
   {
@@ -64,7 +65,7 @@
   },
   {
     "Description"  : "",
-    "DisplayName"  : "HP-ramme (i mill. NOK)",
+    "DisplayName"  : "HP-ramme/ Budsjettramme (i mill. NOK)",
     "Group"        : "Bygg og Anlegg Områdekolonner",
     "ID"           : "273fd5f5-f04b-4458-8062-2413003c4a44",
     "InternalName" : "ByggRammeBudsjett",
