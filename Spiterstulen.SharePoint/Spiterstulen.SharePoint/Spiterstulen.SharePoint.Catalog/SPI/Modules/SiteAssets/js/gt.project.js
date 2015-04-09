@@ -247,7 +247,7 @@ GT.Project.PopulateProjectPhasePart = function () {
 };
 
 GT.Project.GetPhaseLogoMarkup = function (phaseName) {
-    GT.Project.GetPhaseLogoMarkup(phaseName, false);
+    GT.Project.GetPhaseLogoMarkup(phaseName, "", false);
 };
 
 GT.Project.GetPhaseLogoMarkup = function (phaseName, alternatePhaseName, selected, wrapInListItemMarkup, linkToDocumentLibrary, index) {
@@ -260,8 +260,8 @@ GT.Project.GetPhaseLogoMarkup = function (phaseName, alternatePhaseName, selecte
     }
     var markup = '<div class="gt-phaseIcon ' + selectedClass + '">' +
         '<span class="phaseLetter">' + phaseLetter + '</span>' +
-        '<span class="projectPhase">' + phaseDisplayName + '</span>' +
-		'<span class="projectPhase" style="font-size: 80%;"> (' + alternatePhaseName.join(', ') + ')</span>' +
+        '<span class="projectPhase">' + phaseDisplayName + '</span>' + (alternatePhaseName ?
+		'<span class="projectPhase" style="font-size: 80%;"> (' + alternatePhaseName.join(', ') + ')</span>' : "") +
         '</div>';
     if (linkToDocumentLibrary)
         markup = '<a href="../Dokumenter/Forms/AllItems.aspx?FilterField1=GtProjectPhase&FilterValue1=' + phaseDisplayName + '">' + markup + '</a>';
