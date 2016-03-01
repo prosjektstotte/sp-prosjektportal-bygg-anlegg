@@ -1,0 +1,118 @@
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+<head>
+    <title>Glittertind Prosjektdetaljer bygganlegg</title>
+
+    <!--[if gte mso 9]><xml>
+    <mso:CustomDocumentProperties>
+    <mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
+    <mso:ManagedPropertyMapping msdt:dt="string">'PrognoseDividedByRamme':'RefinableDecimal00','ByggSistePolitiskeVedtakOWSDATE','ByggHPFase':'ByggHPFaseOWSCHCS','ByggRammeBudsjett':'ByggRammeBudsjettOWSNMBR','ByggTotalprognose':'ByggTotalprognoseOWSNMBR','ByggTilskudd':'ByggTilskuddOWSCHCS','Path','Title', 'ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','Created','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','LastModifiedTime','GtEndDateOWSDATE'</mso:ManagedPropertyMapping>
+    <mso:MasterPageDescription msdt:dt="string">Glittertind visningsmal for a vise nye prosjekter</mso:MasterPageDescription>
+    <mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F385106603</mso:ContentTypeId>
+    <mso:TargetControlType msdt:dt="string">;#SearchResults;#Content Web Parts;#</mso:TargetControlType>
+<mso:HtmlDesignAssociated msdt:dt="string">1</mso:HtmlDesignAssociated>
+<mso:CrawlerXSLFile msdt:dt="string"></mso:CrawlerXSLFile>
+<mso:HtmlDesignPreviewUrl msdt:dt="string"></mso:HtmlDesignPreviewUrl>
+<mso:HtmlDesignStatusAndPreview msdt:dt="string">http://sharepoint.asker.kommune.no/prosjekter/_catalogs/masterpage/Display Templates/Search/Glittertind_Item_Project_details_bygganlegg.html, Konverteringen er fullført.</mso:HtmlDesignStatusAndPreview>
+<mso:HtmlDesignConversionSucceeded msdt:dt="string">True</mso:HtmlDesignConversionSucceeded>
+</mso:CustomDocumentProperties>
+    </xml><![endif]-->
+</head>
+ 
+<body>
+
+    <!--
+            Warning: Do not try to add HTML to this section. Only the contents of the first <div>
+            inside the <body> tag will be used while executing Display Template code. Any HTML that
+            you add to this section will NOT become part of your Display Template.
+    -->
+    <script>
+	$includeCSS(this.url, "~sitecollection/SiteAssets/gt/css/gt.style.css");	
+    </script>
+
+    <!--
+        Use the div below to author your Display Template. Here are some things to keep in mind:
+        * Surround any JavaScript logic as shown below using a "pound underscore" (#_ ... _#) token
+        inside a comment.
+
+        * Use the values assigned to your variables using an "underscore pound equals"
+        (_#= ... =#_) token.
+    -->
+
+    <div id="TwoLines">
+        <!--#_
+		
+		function GetStatusCssClass(status) {
+			if (status === undefined || status === null) return 'status-unknown';
+
+			var statusToCheck = status.toLowerCase();
+
+			if (statusToCheck === 'etter plan') return 'status-red';
+			else if (statusToCheck === 'foran plan') return 'status-green';
+			else if (statusToCheck === 'på plan') return 'status-green';
+			else if (statusToCheck === 'høy') return 'status-red';
+			else if (statusToCheck === 'medium') return 'status-yellow';
+			else if (statusToCheck === 'lav') return 'status-green';
+			else if (statusToCheck === 'over budsjett') return 'status-red';
+			else if (statusToCheck === 'på budsjett') return 'status-green';
+			else if (statusToCheck === 'under budsjett') return 'status-green';
+			else if (statusToCheck === 'vet ikke') return 'status-yellow';
+			else if (statusToCheck === 'mindre forsinkelse / forsinkelse som kan taes igjen') return 'status-yellow';			
+
+			return 'status-unknown';
+		};
+        var url = $getItemValue(ctx, "Path");
+        var title = $getItemValue(ctx, "Title");
+        var projectManager = $getItemValue(ctx, "ProjectManager");
+        var projectOwner = $getItemValue(ctx, "ProjectOwner");
+        var projectPhase = $getItemValue(ctx, "ProjectPhase").toString();
+        var created = new Date($getItemValue(ctx, "Created").inputValue).format("dd.MM.yyyy");
+        var createdTime = new Date($getItemValue(ctx, "Created").inputValue).format("dd.MM.yyyy kl HH:mm:ss");
+        var projectGoals = $getItemValue(ctx, "GtProjectGoalsOWSMTXT").inputValue;
+        var projectGoalsTrimmed = Srch.U.getTrimmedString( projectGoals , 20);
+        var statusTime = $getItemValue(ctx, "GtStatusTimeOWSCHCS");
+        var statusRisk = $getItemValue(ctx, "GtStatusRiskOWSCHCS");
+        var statusBudget = $getItemValue(ctx, "GtStatusBudgetOWSCHCS");
+        var lastModified = $getItemValue(ctx, "LastModifiedTime");
+        var statusTimeCss = GetStatusCssClass(statusTime.value);
+        var statusRiskCss = GetStatusCssClass(statusRisk.value);
+        var statusBudgetCss = GetStatusCssClass(statusBudget.value);
+
+        var byggHPFase = $getItemValue(ctx, "ByggHPFase");
+        var byggRammeBudsjett = parseFloat($getItemValue(ctx, "ByggRammeBudsjett").value) || 0;
+        var byggTotalprognose = parseFloat($getItemValue(ctx, "ByggTotalprognose").value) || 0;
+        var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
+		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
+		var sluttDato = new Date($getItemValue(ctx, "GtEndDateOWSDATE").inputValue).format("dd.MM.yyyy");
+		
+		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
+		console.log(prognoseDividedByRamme);
+		
+        var totalPrognoseCss = "";
+        
+        if(byggTotalprognose/byggRammeBudsjett > 1){
+            totalPrognoseCss = 'status-red';
+		} else if (byggTotalprognose/byggRammeBudsjett >= 0.95 ){
+           totalPrognoseCss = 'status-yellow';
+		} else {
+		   totalPrognoseCss = 'status-green';
+		}
+
+        _#-->
+        <td>
+            <a href="_#= url =#_">
+                _#= title =#_
+            </a>
+        </td>
+		<td class="_#= statusRiskCss =#_">_#= statusRisk =#_</td>
+		<td>_#= byggHPFase =#_</td>
+		<td>_#= byggRammeBudsjett =#_</td>
+		<td>_#= byggTotalprognose =#_</td>       
+		<td class="_#= totalPrognoseCss =#_">_#=  byggRammeBudsjett!=0 ?(byggTotalprognose/byggRammeBudsjett * 100).toFixed(1).replace(/\./,',') : 0 =#_ %</td>
+		<td>_#= sluttDato =#_</td>
+        <td class="_#= statusTimeCss =#_">_#= statusTime =#_</td>
+        <td>_#= byggTilskudd =#_</td>
+		<td>_#= byggSisteVedtak =#_</td>
+        <td>_#= lastModified =#_</td>
+    </div>
+</body>
+</html>

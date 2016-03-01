@@ -52,16 +52,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="SPI\Modules\ByggOgAnleggDisplayTemplates\Elements.xml" />
     <Content Include="SPI\Modules\SiteAssets\js\gt.project.js" />
     <None Include="Features\SiteByggSiteAssets\SiteByggSiteAssets.feature">
       <FeatureId>{9e4a0ac1-e96c-4a8c-a67f-f7ae8aeee385}</FeatureId>
+    </None>
+    <None Include="SPI\Modules\ByggOgAnleggDisplayTemplates\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{c26d00c5-915a-4377-9265-dbe98d2a9928}</SharePointProjectItemId>
     </None>
     <None Include="SPI\Modules\SiteAssets\config\data\oppgaver.data.json" />
     <Content Include="Features\SiteByggSiteAssets\SiteByggSiteAssets.Template.xml">
       <DependentUpon>SiteByggSiteAssets.feature</DependentUpon>
     </Content>
     <None Include="SPI\Modules\SiteAssets\config\data\fasesjekkliste.data.json" />
-    <None Include="SPI\Modules\SiteAssets\config\quicklaunch\quicklaunch.json" />
     <Content Include="SPI\Modules\SiteAssets\config\defaultfolders\folders.txt" />
     <Content Include="SPI\Modules\SiteAssets\css\gt.style.css" />
     <Content Include="SPI\Modules\SiteAssets\js\customsteps.js" />
@@ -86,6 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="SPI\Lists\" />
+    <Folder Include="SPI\Modules\SiteAssets\config\quicklaunch\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Features\WebByggLists\WebByggLists.Template.xml">

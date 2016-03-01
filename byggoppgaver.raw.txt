@@ -1,0 +1,117 @@
+Mulighetsstudie (F0);Konsept
+	Analysere alternative løsninger;Konsept
+	Vurdere tomter, trafikkforhold, energiløsninger etc (se Sjekkliste for oppdragsavtale- bygg);Konsept
+	Gjøre overordnede kostnadsvurderinger/ budsjettavsetning for de ulike alternativene;Konsept
+	Vurdere overordnet fremdriftsplan;Konsept
+	Foreta en Interessentanalyse;Konsept
+	Forberede politisk sak/presentasjon av alternativer;Konsept
+			Utarbeide saksfremlegg inkludert en vurdering av ønsket leveranse vs. budsjettramme, samt evt. prise alternative løsninger;Konsept
+			Saksfremlegg behandles i de politiske organer (jf. prosess: 5.5.4 Saksbehandling til politiske organer);Konsept
+Rom og Funksjonsprogram (F1);Konsept
+	Etablere prosjektorganisasjon;Konsept
+		Skrive organisasjonsplan;Konsept
+		Holde oppstartsmøte;Konsept
+		Etablere rapporteringsrutiner;Konsept
+		Oppdatere/gjennomføre en interessentanalyse;Konsept
+	Engasjere arkitekt/rådgivere;Konsept
+		Utarbeide konkurransegrunnlag for arkitekt/rådgiver;Konsept
+		Utlyse konkurranse(r);Konsept
+		Evaluere tilbud;Konsept
+		Avholde kontraktsmøte;Konsept
+		Utforme og signere avtaledokument;Konsept
+	Utarbeide rom- og funksjonsprogram;Konsept
+		Utrede og beskrive flere ulike alternativ (hvis relevant);Konsept
+		Vurdere fordeler og ulemper ved ulike entrepriseformer basert på utfordringer og suksesskriterier for prosjektet. (Endelig beslutning om entrepriseform tas av styringsgruppen);Konsept
+	Utføre Intern eller ekstern Kvalitetssikring (K1);Konsept
+	Intern godkjenning i Styringsgruppen (IG1);Konsept
+	Utarbeide Politisk Saksfremlegg (PS1);Konsept
+		Utarbeide saksfremlegg inkludert en vurdering av ønsket leveranse vs. budsjettramme, samt evt. prise alternative løsninger;Konsept
+		Saksfremlegg behandles i de politiske organer (jf. prosess: 5.5.4 Saksbehandling til politiske organer);Konsept
+	Sikre relevante statlige tilskudd;Konsept
+		Vurdere mulighetene for statlige tilskudd;Konsept
+		Kontakte Idretts og Friluftsliv og starte prosessen for å søke spillemidler i henhold til rutine for spillemidler i prosjekt;Konsept
+		Kontakte Husbanken og starte prosessen for å søke Husbanktilskudd i henhold til rutine for Husbanktilskudd;Konsept
+		Identifisere aktuelle tilskuddsmidler for energi- og miljøtiltak i henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak;Konsept
+	Utarbeide oppdragsavtale;Konsept
+		Fyll ut sjekkliste for oppdragsbeskrivelse;Konsept
+		Gå gjennom sjekkliste med KS-leder;Konsept
+Skisseprosjekt (F2);Planlegging
+	Utføre skisseprosjekt;Planlegging
+		Oppstartmøte;Planlegging
+		Samarbeid internt (jf. samarbeidsrutiner);Planlegging
+		Etablere rapporteringsrutiner ;Planlegging
+		Vurdering/ justering av program;Planlegging
+		Oppdatere prosjektorganisasjon;Planlegging
+		Ajourføre fremdriftsplan;Planlegging
+		Kostnadsstyring/ prosjektrapportering;Planlegging
+		Avviks-/endringshåndtering;Planlegging
+		Interessenter/ brukermedvirkning ;Planlegging
+		(Normalt kreves stor brukermedvirkning) ;Planlegging
+		Kontakt med bygg/ regulering;Planlegging
+		Forslag til konstruksjoner;Planlegging
+		Planer, snitt, fasader, situasjonsplan;Planlegging
+		Alt. løsninger m. livssykluskostnader (LCC);Planlegging
+		SHA i skisseprosjekt;Planlegging
+		Miljø i skisseprosjekt;Planlegging
+		Miljørettet helsevern (barnehager og skoler);Planlegging
+		Grunn- og rettighetserverv;Planlegging
+		Universell utforming;Planlegging
+		Sammenstilling av skisseprosjekt;Planlegging
+		Skisseprosjekt rapport ;Planlegging
+		Ferdigstille sjekkliste for fasen;Planlegging
+	Intern godkjenning i styringsgruppen (IG2);Planlegging
+Forprosjekt (F2);Planlegging
+	Kontrahering av arkitekt- og rådgivertjenester, ev. entreprenør;Planlegging
+		Konkurransegrunnlag;Planlegging
+		Åpningsprotokoll;Planlegging
+		Anskaffelsesprotokoll over 500.000 kr. (med evalueringsrapport);Planlegging
+		Protokoll fra tilbudsbefaring;Planlegging
+		Avtale om SHA- koordinering utførelse (KP);Planlegging
+		Meddelelse til tilbydere;Planlegging
+		Møtereferat;Planlegging
+		Signert kontrakt(er);Planlegging
+	Utføre forprosjekt;Planlegging
+	Ekstern kvalitetssikring (K2);Planlegging
+	Intern godkjenning i styringsgruppen (IG3);Planlegging
+	Utarbeide politisk saksfremlegg (PS2);Planlegging
+		Utarbeide saksfremlegg¨inkludert en vurdering av ønsket leveranse vs. budsjettramme, samt evt. prise alternative løsninger;Planlegging
+		Saksfremlegg behandles i de politiske organer (jf. prosess: 5.5.4 Saksbehandling til politiske organer);Planlegging
+Detaljprosjekt (F2);Planlegging
+	Kontrahering av entreprenør (Dersom prosjektet gjennomføres som totalentreprise, samspillentreprise, eller OPS- entreprise);Planlegging
+	Detaljprosjektering;Planlegging
+	Intern godkjenning i styringsgruppen (IG4);Planlegging
+	Klargjøre anbudsmateriale;Planlegging;Planlegging
+Byggefase (F3);Gjennomføring
+	Kontrahering av entreprenør (dersom prosjektet gjennomføres som hovedentreprise, delt entreprise eller generalentreprise);Gjennomføring
+	Sende søknad om igangsetting (IG);Gjennomføring
+	Holde oppstartsmøte;Gjennomføring
+	Definere organisasjon og roller;Gjennomføring
+	Utøve prosjektledelse;Gjennomføring
+	Installasjon;Gjennomføring
+	Igangkjøring;Gjennomføring
+	Forbefaring;Gjennomføring
+	Byggvaske 1;Gjennomføring
+	Idriftsettelse;Gjennomføring
+	Sjekke mottatt FDV dokumentasjon;Gjennomføring
+Avslutning og overtakelse;Avslutning
+	Ferdigbefaring;Avslutning
+	Midlertidig brukstillatelse og ferdigattest;Avslutning
+	Utbedring av mangler;Avslutning
+	Byggvask 2 ;Avslutning
+	Overtakelse fra entreprenør;Avslutning
+	Overlevering til forvalter;Avslutning
+	Økonomisk avslutning;Avslutning
+		Følge opp eventuelle utbetalinger i henhold til rutiner statlige tilskudd;Avslutning
+		Sende sluttrapport til Idretts og Friluftsliv i henhold til rutine for spillemidler i prosjekt;Avslutning
+		Sikre utbetaling fra Husbanktilskudd i henhold til rutine for Husbanktilskudd;Avslutning
+		Sende sluttrapport til Enova i henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak;Avslutning
+		Gjøre en gjennomgang av tilsagnsbrev med kontraktsfestet energiresultat med EDF henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak ;Avslutning
+	Intern godkjenning i Styringsgruppen (IG5);Avslutning
+Prøvedrift (1.	driftsår);Gevinstrealisering
+	Prøvedrift system A;Gevinstrealisering
+	Prøvedrift system B;Gevinstrealisering
+	Prøvedrift system C;Gevinstrealisering
+Garantiperiode (år 2-5);Gevinstrealisering
+	Forvaltning;Gevinstrealisering
+	Drift;Gevinstrealisering
+	Vedlikehold;Gevinstrealisering

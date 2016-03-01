@@ -1,4 +1,4 @@
-ï»¿{
+{
   "Name": "Oppgaver",
   "Type": "Tasklist",
   "Data": {
@@ -7,15 +7,11 @@
         "Fields": [
           {
             "Name": "Title",
-            "Value": "StÃ¸tte oppdragsgiver (KTA ) i Ã¥ definere krav og rammer etter behov"
+            "Value": "Mulighetsstudie (F0)"
           },
           {
             "Name": "GtProjectPhase",
             "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -23,49 +19,79 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "SÃ¸rge for signert oppdragsbestilling"
+                "Value": "Analysere alternative løsninger"
               },
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Oppdragsbestilling.doc"
               }
-            ]
+            ],
+            "Rows": [ ]
           },
           {
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Avklare Ã¸konomiske rammer/erfaringstall"
+                "Value": "Vurdere tomter, trafikkforhold, energiløsninger etc (se Sjekkliste for oppdragsavtale- bygg)"
               },
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
-            ]
+            ],
+            "Rows": [ ]
           },
           {
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "fylle ut sjekkliste for oppdragsavtale"
+                "Value": "Gjøre overordnede kostnadsvurderinger/ budsjettavsetning for de ulike alternativene"
               },
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Vurdere overordnet fremdriftsplan"
               },
               {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste%20for%20oppdragsavtale-%20anlegg.doc"
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
               }
-            ]
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Foreta en Interessentanalyse"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Forberede politisk sak/presentasjon av alternativer"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
           }
         ]
       },
@@ -73,95 +99,11 @@
         "Fields": [
           {
             "Name": "Title",
-            "Value": "Avklare om det er relevant Ã¥ sÃ¸ke spillemidler"
+            "Value": "Rom og Funksjonsprogram (F1)"
           },
           {
             "Name": "GtProjectPhase",
             "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Natur%20og%20idrett/Dokumenter%20som%20produseres/Spillemidler/Rutinebeskrivelse%20for%20prosjekter%20som%20skal%20motta%20spillemidler.doc"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Innhente tilgjengelig grunnlagsinformasjon"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Beskrive tiltaket"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Kontrahere konsulenter"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Etablere prosjektorganisasjon"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "GjennomfÃ¸re forprosjekt"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -169,1120 +111,11 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Vurdere behov for forhÃ¥ndskonferanse eller rammesÃ¸knad"
+                "Value": "Etablere prosjektorganisasjon"
               },
               {
                 "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "GjennomfÃ¸re miljÃ¸gjennomgang og evt skrive miljÃ¸plan"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Etablere SHA- Plan for prosjekteringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
-          }
-        ],
-        "Rows": [ ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Dialog med interessenter"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [ ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Registrere gravearbeid i KGrav"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Avtale om SHA- koordinering prosjektering (KP)"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Avtale%20om%20SHA-%20koordinering%20Prosjektering%20(KP).doc"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "GjennomfÃ¸re detaljprosjekt"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Ferdigstille anbudstegninegr og kravspesifikasjon"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "SÃ¸knad pÃ¥ rammetillatelse skal utformes og sendes Plan og bygg for godkjenning"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "UTarbeide komplett kalkyle"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Fremme politisk sak"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "GjennomfÃ¸re ROS analyse (for prosjekt over 10 mill)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Dokumenter som skal produseres i prosjekteringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Organisasjonsplan/ prosjektplaner"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Plandokumenter"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "MÃ¸tereferat"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Endring av oppdragsbeskrivelsen"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Innsendt sÃ¸knad pÃ¥ byggetillatelse (RammesÃ¸knad eller 1. trinns sÃ¸knad)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "SHA- plan (med vedlegg)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Sjekkliste SHA-koordinator Prosjektering (KP)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste%20SHA-%20koordinator%20Prosjektering%20(KP).doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Risikovurdering prosjekt (Excel- skjema)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/Felles/Kap%205/Sjekklister%20og%20maler/5.11%20Prosjektstyring/Standard%20skjema%20for%20risikovurdering%20prosjekt.xls"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Komplett Kalkyle"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Forprosjektrapport"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Politisk saksfremlegg"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Interessentanalyse"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Interessentanalyse.xlsx"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Avtaler med kabelselskapene"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Signert grunneieravtaler "
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Naboinformasjon (sendt ut)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Naboinformasjon.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Grunnlag for utlysning av konkurranse (i Doffin)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "(ForelÃ¸pig) fremdriftsplan"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Prosjektrapporter (mÃ¥nedsrapporter i Excel)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Sjekkliste for prosjekteringsfasen (K1)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Prosjekteringsfasen.docx"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Fyll inn sjekkliste for prosjekteringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Prosjekteringsfasen.docx"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Utarbeide konkurransegrunnlag inkl. kravspesifikasjon og anbudstegninger"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "UtfÃ¸re sidemannskontroll av konkurransegrunnlaget"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Utlyse konkurranse(r)"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Evaluere tilbud"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Avholde kontraktsmÃ¸te"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Utforme og signere avtaledokument"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "AjourfÃ¸re budsjett/ kalkyle"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Styre og rapportere prosjektets fremdrift og kostnader "
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Dokumenter som skal produseres i kontraheringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Konkurransegrunnlag- anlegg"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Konkurransegrunnlag-%20anlegg"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Anskaffelsesprotokoll over 500.000 kr. (med evalueringsrapport)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Protokoll%20for%20anskaffelser%20over%20500.000%20kr..doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Ã…pningsprotokoll"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/%C3%85pningsprotokoll.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Protokoll fra tilbudsbefaring"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/M%C3%B8tereferat-%20Anbudsorientering_befaring.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Avtale om SHA- koordinering utfÃ¸relse (KU)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Avtale%20om%20SHA-%20koordinering%20Utf%C3%B8relse%20(KU).doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Meddelelse til tilbydere"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "MÃ¸tereferat"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Signert kontrakt(er) "
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Utfylt egenrapporteringsskjema for lÃ¸nns og arbeidsvilkÃ¥r"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Budsjett"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Avviksmeldinger"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Endringsanmodning "
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsanmodning.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Endringsordre"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsordre.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Endring av oppdragsbestilling"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Prosjektrapporter (mÃ¥nedsrapporter i excel)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Sjekkliste for kontraheringsfasen (K2)"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Kontraheringsfasen.docx"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Fyll inn sjekkliste for kontraheringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Kontraheringsfasen.docx"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Sende sÃ¸knad om igangsettelse (IG)"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Avholde oppstartsmÃ¸te"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Definere organisasjon og roller"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [ ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Oppdater SHA- Plan"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Sikkerhet,%20helse%20og%20arbeidsmilj%C3%B8.doc"
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "inngÃ¥ avtale om SHA koordinator for utfÃ¸rende"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Oppdater risikovurdering SHA og SHA plan "
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "FÃ¸lge opp og kontroller fremdrift"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [ ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Ã˜konomioppfÃ¸lging"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [ ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Dokumenter som skal produseres i anleggsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ],
-        "Rows": [
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Dokumenter som skal produseres av prosjektleder"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
               }
             ],
             "Rows": [
@@ -1290,321 +123,66 @@
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Godkjent IG "
+                    "Value": "Kontakte HVO og AMU"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "ForhÃ¥ndsmelding til arbeidstilsynet"
+                    "Value": "Skrive organisasjonsplan"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Organisasjonsplan/ prosjektplaner "
+                    "Value": "Holde oppstartsmøte"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Fremdriftsplan (oppdatert)"
+                    "Value": "Etablere rapporteringsrutiner"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "MÃ¸tereferat"
+                    "Value": "Oppdatere/gjennomføre en interessentanalyse"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Avviksmeldinger"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Endringsanmodning"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsanmodning.doc"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Endringsordre"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsordre.doc"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Endring av oppdragsbestilling"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "SHA- plan med vedlegg (oppdatert)"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "MiljÃ¸plan- anleggsprosjekter (Utarbeides i prosjekteringsfasen; videreutvikles og fÃ¸lges opp i gjennomfÃ¸ringsfasen)"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Milj%C3%B8plan-%20anleggsprosjekter.docx"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Arbeidstegninger"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Stikningsdata"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Korrespondanse"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Ev. oppdatert Interessentanalyse "
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Interessentanalyse.xlsx"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Ev. oppdatert informasjon til naboer og grunneiere"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Ev. oppdatert budsjett"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Prosjektrapporter (mÃ¥nedsrapporter i Excel)"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "FDV-/ sluttdokumentasjon"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Sjekkliste for anleggsfase (K3)"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Anleggsfasen.docx"
-                  }
-                ]
+                ],
+                "Rows": [ ]
               }
             ]
           },
@@ -1612,15 +190,11 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Dokumenter som forventes fra entreprenÃ¸r i anleggsfasen"
+                "Value": "Engasjere arkitekt/rådgivere"
               },
               {
                 "Name": "GtProjectPhase",
-                "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
               }
             ],
             "Rows": [
@@ -1628,162 +202,253 @@
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "SHA- plan"
+                    "Value": "Utarbeide konkurransegrunnlag for arkitekt/rådgiver"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "MiljÃ¸plan- anleggsprosjekter (Utarbeides i prosjekteringsfasen; videreutvikles og fÃ¸lges opp i gjennomfÃ¸ringsfasen)"
+                    "Value": "Utlyse konkurranse(r)"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Milj%C3%B8plan-%20anleggsprosjekter.docx"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Varslingsplan "
+                    "Value": "Evaluere tilbud"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Varslingsplan.doc"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Fremdriftsplan "
+                    "Value": "Avholde kontraktsmøte"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Fremdriftsplan.xls"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Prosjektrapportering fra entreprenÃ¸r (mÃ¥nedsrapport)"
+                    "Value": "Utforme og signere avtaledokument"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Avviksmelding SHA og miljÃ¸"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
-                    "Value": "Avviksmelding - teknisk"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
-                  }
-                ]
-              },
+                ],
+                "Rows": [ ]
+              }
+            ]
+          },
 
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utarbeide rom- og funksjonsprogram"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Sluttrapport med avfallsplan for nybygg"
+                    "Value": "Utrede og beskrive flere ulike alternativ (hvis relevant)"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "http://byggeregler.dibk.no/cms/content/uploads/5178-Sluttrapport-med-avfallsplan-for-nybygg1.pdf"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Sluttrapport med avfallsplan for rehabilitering og riving"
+                    "Value": "Vurdere fordeler og ulemper ved ulike entrepriseformer basert på utfordringer og suksesskriterier for prosjektet. (Endelig beslutning om entrepriseform tas av styringsgruppen)"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                  }
+                ],
+                "Rows": [ ]
+              }
+            ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utføre Intern eller ekstern Kvalitetssikring (K1)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Intern godkjenning i Styringsgruppen (IG1)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utarbeide Politisk Saksfremlegg (PS1)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [ ]
+          },
+
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Sikre relevante statlige tilskudd"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Vurdere mulighetene for statlige tilskudd"
                   },
                   {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "http://byggeregler.dibk.no/cms/content/uploads/5179-Sluttrapport-med-avfallsplan-for-rehabilitering-og-riving.pdf"
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
               },
               {
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Sluttdokumentasjon- anlegg"
+                    "Value": "Kontakte Idretts og Friluftsliv og starte prosessen for å søke spillemidler i henhold til rutine for spillemidler i prosjekt"
                   },
                   {
                     "Name": "GtProjectPhase",
-                    "Value": "GjennomfÃ¸re|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Kontakte Husbanken og starte prosessen for å søke Husbanktilskudd i henhold til rutine for Husbanktilskudd"
                   },
                   {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sluttdokumentasjon-%20anlegg.doc"
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
                   }
-                ]
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Identifisere aktuelle tilskuddsmidler for energi- og miljøtiltak i henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                  }
+                ],
+                "Rows": [ ]
+              }
+            ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utarbeide oppdragsavtale"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+              }
+            ],
+            "Rows": [
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Fyll ut sjekkliste for oppdragsbeskrivelse"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Gå gjennom sjekkliste med KS-leder"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
+                  }
+                ],
+                "Rows": [ ]
               }
             ]
           }
@@ -1793,143 +458,11 @@
         "Fields": [
           {
             "Name": "Title",
-            "Value": "Forbefaring"
+            "Value": "Skisseprosjekt (F2)"
           },
           {
             "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Ferdigbefaring"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "PrÃ¸vedrift"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Overtakelse (fra entreprenÃ¸r til prosjekt)"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Overlevering (fra prosjekt til oppdragsgiver)"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Utarbeide FDV dokumentasjon"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Ã˜konomisk avslutning"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Ferdigmelding"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Dokumenter som skal produseres i overleveringsfasen"
-          },
-          {
-            "Name": "GtProjectPhase",
-            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
+            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
           }
         ],
         "Rows": [
@@ -1937,15 +470,299 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Referat fra ferdigbefaring"
+                "Value": "Utføre skisseprosjekt"
               },
               {
                 "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Oppstartmøte"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
               },
               {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Samarbeid internt (jf. samarbeidsrutiner)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Etablere rapporteringsrutiner "
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Vurdering/ justering av program"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Oppdatere prosjektorganisasjon"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Ajourføre fremdriftsplan"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Kostnadsstyring/ prosjektrapportering"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Avviks-/endringshåndtering"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Interessenter/ brukermedvirkning (Normalt kreves stor brukermedvirkning) "
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Kontakt med bygg/ regulering"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Forslag til konstruksjoner"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Planer, snitt, fasader, situasjonsplan"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Alt. løsninger m. livssykluskostnader (LCC)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "SHA i skisseprosjekt"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Miljø i skisseprosjekt"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Miljørettet helsevern (barnehager og skoler)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Konsultere HVO og AMU"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Grunn- og rettighetserverv"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Universell utforming"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Sammenstilling av skisseprosjekt"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Skisseprosjekt rapport "
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Ferdigstille sjekkliste for fasen"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
               }
             ]
           },
@@ -1953,129 +770,14 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Signert Overtakelsesprotokoll"
+                "Value": "Intern godkjenning i styringsgruppen (IG2)"
               },
               {
                 "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Overtakelsesprotokoll.DOC"
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
               }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Evalueringsrapporter"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "MÃ¸tereferat"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Referat fra mÃ¸te om Ã¸konomisk sluttoppgjÃ¸r"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Signert Overleveringsprotokoll"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Overleveringsprotokoll.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Ferdigstilt FDV-/ sluttdokumentasjon"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Sluttrapport med sluttregnskap"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sluttrapport.doc"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
-                "Value": "Sluttregnskap og ferdigattest som grunnlag for sÃ¸knad om sluttutbetaling av spillemidlene."
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
-              }
-            ]
+            ],
+            "Rows": [ ]
           }
         ]
       },
@@ -2083,15 +785,183 @@
         "Fields": [
           {
             "Name": "Title",
-            "Value": "Garantiperiode"
+            "Value": "Forprosjekt (F2)"
           },
           {
             "Name": "GtProjectPhase",
-            "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Kontrahering av arkitekt- og rådgivertjenester, ev. entreprenør"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Konkurransegrunnlag"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Åpningsprotokoll"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Anskaffelsesprotokoll over 500.000 kr. (med evalueringsrapport)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Protokoll fra tilbudsbefaring"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Avtale om SHA- koordinering utførelse (KP)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Meddelelse til tilbydere"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Møtereferat"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Signert kontrakt(er)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+                  }
+                ],
+                "Rows": [ ]
+              }
+            ]
           },
           {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utføre forprosjekt"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Ekstern kvalitetssikring (K2)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Intern godkjenning i styringsgruppen (IG3)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utarbeide politisk saksfremlegg (PS2)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
           }
         ]
       },
@@ -2099,15 +969,512 @@
         "Fields": [
           {
             "Name": "Title",
-            "Value": "Forvaltning, drift og vedlikehold"
+            "Value": "Detaljprosjekt (F2)"
+          },
+          {
+            "Name": "GtProjectPhase",
+            "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Kontrahering av entreprenør (Dersom prosjektet gjennomføres som totalentreprise, samspillentreprise, eller OPS- entreprise)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Detaljprosjektering"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Intern godkjenning i styringsgruppen (IG4)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Klargjøre anbudsmateriale"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ],
+            "Rows": [ ]
+          }
+        ]
+      },
+      {
+        "Fields": [
+          {
+            "Name": "Title",
+            "Value": "Byggefase (F3)"
+          },
+          {
+            "Name": "GtProjectPhase",
+            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Kontrahering av entreprenør (dersom prosjektet gjennomføres som hovedentreprise, delt entreprise eller generalentreprise)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Sende søknad om igangsetting (IG)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Holde oppstartsmøte"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Definere organisasjon og roller"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utøve prosjektledelse"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Installasjon"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Igangkjøring"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Forbefaring"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Byggvaske 1"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Idriftsettelse"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Sjekke mottatt FDV dokumentasjon"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ],
+            "Rows": [ ]
+          }
+        ]
+      },
+      {
+        "Fields": [
+          {
+            "Name": "Title",
+            "Value": "Avslutning og overtakelse"
+          },
+          {
+            "Name": "GtProjectPhase",
+            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Ferdigbefaring"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Midlertidig brukstillatelse og ferdigattest"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utbedring av mangler"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Byggvask 2 "
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Overtakelse fra entreprenør"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Overlevering til forvalter"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Økonomisk avslutning"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Følge opp eventuelle utbetalinger i henhold til rutiner statlige tilskudd"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Sende sluttrapport til Idretts og Friluftsliv i henhold til rutine for spillemidler i prosjekt"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Sikre utbetaling fra Husbanktilskudd i henhold til rutine for Husbanktilskudd"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Sende sluttrapport til Enova i henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                  }
+                ],
+                "Rows": [ ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Gjøre en gjennomgang av tilsagnsbrev med kontraktsfestet energiresultat med EDF henhold til Rutinebeskrivelse for prosjekter som søker og mottar tilskudd til energi- og miljøtiltak "
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+                  }
+                ],
+                "Rows": [ ]
+              }
+            ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Intern godkjenning i Styringsgruppen (IG5)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          }
+        ]
+      },
+      {
+        "Fields": [
+          {
+            "Name": "Title",
+            "Value": "Prøvedrift (1.driftsår)"
+          },
+          {
+            "Name": "GtProjectPhase",
+            "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Prøvedrift system A"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Prøvedrift system B"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Prøvedrift system C"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ],
+            "Rows": [ ]
+          }
+        ]
+      },
+      {
+        "Fields": [
+          {
+            "Name": "Title",
+            "Value": "Garantiperiode (år 2-5)"
           },
           {
             "Name": "GtProjectPhase",
             "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+          }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Forvaltning"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+              }
+            ],
+            "Rows": [ ]
           },
           {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Drift"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+              }
+            ],
+            "Rows": [ ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Vedlikehold"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
+              }
+            ],
+            "Rows": [ ]
           }
         ]
       }
