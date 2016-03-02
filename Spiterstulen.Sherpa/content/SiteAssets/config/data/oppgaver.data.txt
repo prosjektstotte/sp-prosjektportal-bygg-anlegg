@@ -1763,18 +1763,6 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Oppfølgingsmøte 3 med entreprenør og PL fra PRU"
-              },
-              {
-                "Name": "GtProjectPhase",
-                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              }
-            ]
-          },
-          {
-            "Fields": [
-              {
-                "Name": "Title",
                 "Value": "Oppfølgingsmøte  1 med entreprenør og PL fra PRU"
               },
               {
@@ -1788,6 +1776,18 @@
               {
                 "Name": "Title",
                 "Value": "Oppfølgingsmøte  2 med entreprenør og PL fra PRU"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Oppfølgingsmøte 3 med entreprenør og PL fra PRU"
               },
               {
                 "Name": "GtProjectPhase",
