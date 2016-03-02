@@ -5,19 +5,7 @@
     "ContentTypeConfigurations": [
         "bygganlegg-contenttypes.json"
     ],
-    "TaxonomyConfigurations": [
-        ""
-    ],
-    "SandboxedSolutions": [
-        "Spiterstulen.SharePoint.wsp"
-    ],
-    "SiteFeatures": [
-        {
-            "FeatureId": "ec6a8219-b4de-4038-9995-994fc18efc34",
-            "FeatureName": "Spiterstulen.SharePoint.Catalog_SiteByggSiteAssets",
-            "ReactivateAlways": "true"
-        }
-    ],
+    "TaxonomyConfigurations": [],
     "RootWeb": {
         "Description": "",
         "Language": "1044",
@@ -25,6 +13,28 @@
         "Lists": [],
         "Properties": {
         },
+        "ContentFolders": [
+            {
+                "FolderName": "DisplayTemplates",
+                "ListName": "Master Page Gallery",
+                "FolderUrl": "Display Templates/Search",
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions": ".html"
+            },
+            {
+                "FolderName": "DefaultDocuments",
+                "ListName": "Standarddokumenter",
+                "FolderUrl": "",
+                "PropertiesFile": "properties.json"
+            },
+            {
+                "FolderName": "SiteAssets",
+                "ListName": "Site Assets",
+                "FolderUrl": "gt",
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions": ""
+            }
+        ],
         "Quicklaunch": {
             "Hjem": "",
             "Porteføljeoversikt": "SitePages/PortefoljeOversiktAlternativ.aspx",
@@ -33,17 +43,11 @@
         },
         "Template": "",
         "Url": "/",
-        "WebFeatures": [
-            {
-                "FeatureId": "dff08d67-9691-4e65-a21d-1b29faa4ce16",
-                "FeatureName": "Spiterstulen.SharePoint.Catalog_WebByggLists",
-                "ReactivateAlways": "true"
-            }
-        ],
-		 "CustomTaskTypes" :  [
-           {
-               "Fullname" :  "DeleteDefaultDocuments.Task"
-           }
+        "WebFeatures": [],
+        "CustomTaskTypes" :  [
+        {
+            "Fullname" :  "DeleteDefaultDocuments.Task"
+        }
        ],
         "Webs": [ ]
     }

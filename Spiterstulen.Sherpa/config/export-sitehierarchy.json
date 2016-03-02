@@ -1,0 +1,31 @@
+{
+    "RootWeb": {
+        "Description": "",
+        "Language": "1044",
+        "Name": "Prosjektportal rotområde",
+        "Lists": [],
+        "Properties": {
+        },
+        "Template": "",
+        "Url": "/",
+        "WebFeatures": [],
+        "Webs": [
+            {
+                "Description": "",
+                "Language": "1044",
+                "Name": "t01",
+                "Lists": [
+                    {
+                        "Title": "Oppgaver",
+                        "Description": "",
+                        "Url": "Lists/Oppgaver",
+                        "ExportData":"true"
+                    }
+                ],
+                "Template": "",
+                "Url": "testtarjei",
+                "WebFeatures": []
+            }
+         ]
+    }
+}

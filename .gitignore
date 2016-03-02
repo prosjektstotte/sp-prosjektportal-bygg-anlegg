@@ -188,3 +188,4 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+Spiterstulen.SharePoint/Spiterstulen.SharePoint/.vs/config/applicationhost.config

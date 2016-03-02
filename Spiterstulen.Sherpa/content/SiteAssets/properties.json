@@ -1,0 +1,22 @@
+[
+  {
+    "Path": "config/data/fasesjekkliste.data.json",
+    "Url": "config/data/fasesjekkliste.data.txt"
+  },
+  {
+    "Path": "config/data/interessenter.data.json",
+    "Url": "config/data/interessenter.data.txt"
+  },
+  {
+    "Path": "config/data/oppgaver.json",
+    "Url": "config/data/oppgaver.txt"
+  },
+  {
+    "Path": "config/data/oppgaver.anlegg.data.json",
+    "Url": "config/data/oppgaver.anlegg.data.txt"
+  },
+  {
+    "Path": "config/quicklaunch/quicklaunch.json",
+    "Url": "config/quicklaunch/quicklaunch"
+  }
+]
