@@ -19,13 +19,14 @@ function DisplayTemplate_16f5b3d974c44a6bb5e15a3f311e5a21(ctx) {
 
 ms_outHtml.push('',''
 );
-		
+
 		function GetStatusCssClass(status) {
 			if (status === undefined || status === null) return 'status-unknown';
 
 			var statusToCheck = status.toLowerCase();
 
 			if (statusToCheck === 'etter plan') return 'status-red';
+            else if (statusToCheck === 'forsinket') return 'status-red';
 			else if (statusToCheck === 'foran plan') return 'status-green';
 			else if (statusToCheck === 'på plan') return 'status-green';
 			else if (statusToCheck === 'høy') return 'status-red';
@@ -35,7 +36,7 @@ ms_outHtml.push('',''
 			else if (statusToCheck === 'på budsjett') return 'status-green';
 			else if (statusToCheck === 'under budsjett') return 'status-green';
 			else if (statusToCheck === 'vet ikke') return 'status-yellow';
-			else if (statusToCheck === 'mindre forsinkelse / forsinkelse som kan taes igjen') return 'status-yellow';			
+			else if (statusToCheck === 'mindre forsinkelse / forsinkelse som kan taes igjen') return 'status-yellow';
 
 			return 'status-unknown';
 		};
@@ -62,12 +63,13 @@ ms_outHtml.push('',''
         var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
 		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
 		var sluttDato = new Date($getItemValue(ctx, "GtEndDateOWSDATE").inputValue).format("dd.MM.yyyy");
-		
+        var statusBuildPlanCase = $getItemValue(ctx, "GtStatusPlanBuildCaseOWSCHCS");
+
 		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
 		console.log(prognoseDividedByRamme);
-		
+
         var totalPrognoseCss = "";
-        
+
         if(byggTotalprognose/byggRammeBudsjett > 1){
             totalPrognoseCss = 'status-red';
 		} else if (byggTotalprognose/byggRammeBudsjett >= 0.95 ){
@@ -90,6 +92,7 @@ ms_outHtml.push('',''
 ,'		<td>', sluttDato ,'</td>'
 ,'        <td class="', statusTimeCss ,'">', statusTime ,'</td>'
 ,'        <td>', byggTilskudd ,'</td>'
+,'        <td>', statusBuildPlanCase ,'</td>'
 ,'		<td>', byggSisteVedtak ,'</td>'
 ,'        <td>', lastModified ,'</td>'
 ,'    '
@@ -109,7 +112,7 @@ if ("undefined" != typeof (Srch) &&"undefined" != typeof (Srch.U) &&typeof(Srch.
   Srch.U.registerRenderTemplateByName("~sitecollection\u002f_catalogs\u002fmasterpage\u002fDisplay Templates\u002fSearch\u002fGlittertind_Item_Project_details_bygganlegg.js", DisplayTemplate_16f5b3d974c44a6bb5e15a3f311e5a21);
 }
 //
-	$includeCSS("~sitecollection\u002f_catalogs\u002fmasterpage\u002fDisplay Templates\u002fSearch\u002fGlittertind_Item_Project_details_bygganlegg.js", "~sitecollection/SiteAssets/gt/css/gt.style.css");	
+	$includeCSS("~sitecollection\u002f_catalogs\u002fmasterpage\u002fDisplay Templates\u002fSearch\u002fGlittertind_Item_Project_details_bygganlegg.js", "~sitecollection/SiteAssets/gt/css/gt.style.css");
     //
 }
 RegisterTemplate_16f5b3d974c44a6bb5e15a3f311e5a21();

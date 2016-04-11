@@ -1,4 +1,4 @@
-<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"> 
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
 <head>
 <title>Glittertind Table bygganlegg</title>
 
@@ -20,7 +20,7 @@
             inside the <body> tag will be used while executing Display Template code. Any HTML that
             you add to this section will NOT become part of your Display Template.
     -->
-    <script>		
+    <script>
     </script>
 
     <!--
@@ -34,7 +34,7 @@
 
     <div id="Control_List">
 
-        <!--#_ 
+        <!--#_
             if (!$isNull(ctx.ClientControl) &&
             !$isNull(ctx.ClientControl.shouldRenderControl) &&
             !ctx.ClientControl.shouldRenderControl())
@@ -69,8 +69,9 @@ _#-->
 				<th>Totalprognose</th>
 				<th>Prognose/ramme</th>
 				<th>Overtakelsesdato</th>
-				<th>Status tid</th>				
+				<th>Status tid</th>
 				<th>Tilskudd</th>
+				<th>Status plan- og byggesak</th>
 				<th>Siste politiske vedtak</th>
 				<th>Sist endret</th>
 			</tr>
@@ -79,32 +80,32 @@ _#-->
            _#= ctx.RenderGroups(ctx) =#_
 		 </tbody>
 	</table>
-<!--#_	
+<!--#_
                 if(ctx.ClientControl.get_showPaging()){
                     var pagingInfo = ctx.ClientControl.get_pagingInfo();
-                    if(!$isEmptyArray(pagingInfo)){ 
+                    if(!$isEmptyArray(pagingInfo)){
 _#-->
                          <div class="ms-srch-result" id="Result" name="Control"><ul id="Paging" class="ms-srch-Paging">
-<!--#_ 
+<!--#_
                         for (var i = 0; i < pagingInfo.length; i++) {
                             var pl = pagingInfo[i];
                             if(!$isNull(pl)) {
                                 var imagesUrl = GetThemedImageUrl('searchresultui.png');
-                                if(pl.startItem == -1) { 
+                                if(pl.startItem == -1) {
                                     var selfLinkId = "SelfLink_" + pl.pageNumber;
 _#-->
                                     <li id="PagingSelf"><a id="_#= $htmlEncode(selfLinkId) =#_">_#= $htmlEncode(pl.pageNumber) =#_</a></li>
-<!--#_ 
-                                } else if(pl.pageNumber == -1) { 
-                                    var iconClass = Srch.U.isRTL() ? "ms-srch-pagingNext" : "ms-srch-pagingPrev";                                    
+<!--#_
+                                } else if(pl.pageNumber == -1) {
+                                    var iconClass = Srch.U.isRTL() ? "ms-srch-pagingNext" : "ms-srch-pagingPrev";
 _#-->
                                     <li id="PagingImageLink"><a id="PageLinkPrev" href="#" class="ms-commandLink ms-promlink-button ms-promlink-button-enabled ms-verticalAlignMiddle" title="_#= $htmlEncode(pl.title) =#_" onclick="$getClientControl(this).page(_#= $htmlEncode(pl.startItem) =#_);return Srch.U.cancelEvent(event);">
                                         <span class="ms-promlink-button-image">
                                             <img src="_#= $urlHtmlEncode(imagesUrl) =#_" class="_#= $htmlEncode(iconClass) =#_" alt="_#= $htmlEncode(pl.title) =#_" />
                                         </span>
                                     </a></li>
-<!--#_ 
-                                } else if(pl.pageNumber == -2) { 
+<!--#_
+                                } else if(pl.pageNumber == -2) {
                                     var iconClass = Srch.U.isRTL() ? "ms-srch-pagingPrev" : "ms-srch-pagingNext";
 _#-->
                                     <li id="PagingImageLink"><a id="PageLinkNext" href="#" class="ms-commandLink ms-promlink-button ms-promlink-button-enabled ms-verticalAlignMiddle" title="_#= $htmlEncode(pl.title) =#_" onclick="$getClientControl(this).page(_#= $htmlEncode(pl.startItem) =#_);return Srch.U.cancelEvent(event);">
@@ -112,21 +113,21 @@ _#-->
                                             <img src="_#= $urlHtmlEncode(imagesUrl) =#_" class="_#= $htmlEncode(iconClass) =#_" alt="_#= $htmlEncode(pl.title) =#_" />
                                         </span>
                                     </a></li>
-<!--#_ 
-                                } else { 
+<!--#_
+                                } else {
                                     var pageLinkId = "PageLink_" + pl.pageNumber;
 _#-->
                                     <li id="PagingLink"><a id="_#= $htmlEncode(pageLinkId) =#_" href="#" title="_#= $htmlEncode(pl.title) =#_" onclick="$getClientControl(this).page(_#= $htmlEncode(pl.startItem) =#_);return Srch.U.cancelEvent(event);">_#= $htmlEncode(pl.pageNumber) =#_</a></li>
-<!--#_ 
+<!--#_
                                 }
                             }
-                        } 
+                        }
 _#-->
                         </ul></div>
-<!--#_ 
+<!--#_
                     }
-                } 	
-	
+                }
+
 
 if (ctx.ClientControl.get_shouldShowNoResultMessage())
 {
