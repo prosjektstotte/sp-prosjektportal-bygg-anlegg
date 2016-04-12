@@ -1261,18 +1261,6 @@
                 "Fields": [
                   {
                     "Name": "Title",
-                    "Value": "Evaluere tilbud"
-                  },
-                  {
-                    "Name": "GtProjectPhase",
-                    "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  }
-                ]
-              },
-              {
-                "Fields": [
-                  {
-                    "Name": "Title",
                     "Value": "Utarbeide konkurransegrunnlag"
                   },
                   {
@@ -1298,6 +1286,18 @@
                   {
                     "Name": "Title",
                     "Value": "Utlyse konkurranse(r)"
+                  },
+                  {
+                    "Name": "GtProjectPhase",
+                    "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+                  }
+                ]
+              },
+              {
+                "Fields": [
+                  {
+                    "Name": "Title",
+                    "Value": "Evaluere tilbud"
                   },
                   {
                     "Name": "GtProjectPhase",
@@ -1347,7 +1347,7 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "Berhandling av søknad om IG"
+                "Value": "Behandling av søknad om IG"
               },
               {
                 "Name": "GtProjectPhase",
@@ -1440,66 +1440,66 @@
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Installasjon"
           },
           {
-            "Name": "GtProjectPhase",
-            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Igangkjøring (inkl. funkjsonstester)"
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Installasjon"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ]
           },
           {
-            "Name": "GtProjectPhase",
-            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Forbefaring"
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Igangkjøring (inkl. funkjsonstester)"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ]
           },
           {
-            "Name": "GtProjectPhase",
-            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Teknisk ferdigstillelse"
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Forbefaring"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ]
           },
           {
-            "Name": "GtProjectPhase",
-            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          }
-        ]
-      },
-      {
-        "Fields": [
-          {
-            "Name": "Title",
-            "Value": "Sjekke mottatt FDV dokumentasjon"
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Teknisk ferdigstillelse"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ]
           },
           {
-            "Name": "GtProjectPhase",
-            "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Sjekke mottatt FDV dokumentasjon"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
+              }
+            ]
           }
         ]
       },
@@ -1836,6 +1836,18 @@
               {
                 "Name": "Title",
                 "Value": "Garantibefaring"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
+              }
+            ]
+          },
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Gjennomgang av prosjektet og hvilke midler som følger bygget over i forvaltning og drift etter prøvedrift"
               },
               {
                 "Name": "GtProjectPhase",
