@@ -31,27 +31,79 @@ GT.Project.HideProductsInLogFormIfEmpty = function () {
     }
 };
 
-GT.Project.ShowMetadataIfIsWelcomePage = function (selector) {
-    SP.SOD.executeFunc('sp.js', 'SP.ClientContext', function () {
-        var ctx = SP.ClientContext.get_current();
-        var web = ctx.get_web();
-        var rootFolder = web.get_rootFolder();
+GT.Project.ShowMetadataIfIsWelcomePage = function () {
+    var selector = ".projectFrontPage .rightColumnStatic";
+    var ctx = SP.ClientContext.get_current();
+    var web = ctx.get_web();
+    var rootFolder = web.get_rootFolder();
 
-        ctx.load(rootFolder);
-        ctx.executeQueryAsync(function () {
-            var welcomePage = rootFolder.get_welcomePage();
-            if (_spPageContextInfo.serverRequestPath.endsWith(welcomePage)) {
-                GT.jQuery(selector).show();
-            } else {
-                GT.jQuery(selector).html('<p>Informasjon om prosjektet er kun tilgjengelig fra <a href="../' + welcomePage + '">forsiden</a></p>').show();
-            }
-
-        }, function () {
-            console.log('An error has accured. Showing metadata to avoid hiding it in fault.');
+    ctx.load(rootFolder);
+    ctx.executeQueryAsync(function () {
+        var welcomePage = rootFolder.get_welcomePage();
+        if (_spPageContextInfo.serverRequestPath.endsWith(welcomePage)) {
             GT.jQuery(selector).show();
-        });
+        } else {
+            GT.jQuery(selector).html('<p>Informasjon om prosjektet er kun tilgjengelig fra <a href="../' + welcomePage + '">forsiden</a></p>').show();
+        }
+
+    }, function () {
+        console.log('An error has accured. Showing metadata to avoid hiding it in fault.');
+        GT.jQuery(selector).show();
     });
 };
+
+GT.Project.HandleMissingMetadata = function () {
+    if (GT.jQuery('.projectFrontPage .projectMetadata table tr.GtProjectPhase td.fieldValue').text().trim() == '' ||
+        GT.jQuery('.projectFrontPage .projectMetadata table tr.GtProjectManager td.fieldValue').text().trim() == '' ||
+        GT.jQuery('.projectFrontPage .projectMetadata table tr.GtProjectGoals td.fieldValue').text().trim() == '') {
+        GT.jQuery('.projectFrontPage .missingMetadataWarning').show();
+        GT.jQuery('#changeProjectPhaseLink').hide();
+    } else {
+        GT.jQuery('#changeProjectPhaseLink').show();
+    }
+}
+
+GT.Project.SetEditMetadataUrls = function () {
+    var editMetaUrl = 'Forms/EditForm.aspx?EditMode=Project&ID=' + _spPageContextInfo.pageItemId;
+    GT.jQuery('#editPageMetaLink').attr('href', editMetaUrl);
+    var editPhaseUrl = editMetaUrl.replace('Project', 'PhaseOnly');
+    GT.jQuery('#changeProjectPhaseLink').attr('href', editPhaseUrl);
+}
+
+GT.Project.InitFrontpage = function () {
+    GT.Project.ExecuteFunctionsAfterSPLoaded([
+        GT.Project.PopulateProjectPhasePart,
+        GT.Project.ShowMetadataIfIsWelcomePage,
+    ]);
+};
+GT.Project.InitOwnerControls = function () {
+    GT.Project.ExecuteFunctionsAfterSPLoaded([
+            GT.Project.HandleMissingMetadata,
+            GT.Project.SetEditMetadataUrls
+    ]);
+};
+
+GT.Project.ExecuteFunctionsAfterSPLoaded = function (funcsToExecute) {
+    // For IE 10,11+
+    if (SP && SP.SOD) {
+        SP.SOD.executeFunc('sp.js', 'SP.ClientContext', function () {
+            for (var i = funcsToExecute.length - 1; i >= 0; i--) {
+                funcsToExecute[i]();
+                funcsToExecute.pop();
+            }
+        });
+    };
+
+    // For Chrome - SP.SOD.executeFunc only has a 53% success rate with Chrome
+    if (window['ExecuteOrDelayUntilScriptLoaded']) {
+        ExecuteOrDelayUntilScriptLoaded(function () {
+            for (var i = funcsToExecute.length - 1; i >= 0; i--) {
+                funcsToExecute[i]();
+                funcsToExecute.pop();
+            }
+        }, "sp.js");
+    };
+}
 
 GT.Project.ChangeProjectPhase = function () {
     var deferred = GT.jQuery.Deferred();
@@ -231,17 +283,12 @@ GT.Project.EnsureMetaDataDefaultsEventReceiver = function (lib) {
 GT.Project.PopulateProjectPhasePart = function () {
     SP.SOD.executeFunc('sp.js', 'SP.ClientContext', function () {
         GT.jQuery.when(GT.Project.GetPhaseNameFromCurrentItem()).then(function (phaseName) {
-            var phases = ['Konsept', 'Planlegge', 'Gjennomføre', 'Avslutte', 'Realisere'];
-            var alternatePhases = {
-                'Konsept': ['Initiering'],
-                'Planlegge': ['Prosjektering', 'Kontrahering'],
-                'Gjennomføre': ['Anleggsfase'],
-                'Avslutte': ['Overtakelse og overlevering'],
-                'Realisere': ['Bruks og driftsfase'],
-            };
-            for (var ix = 0; ix < phases.length; ix++) {
-                GT.jQuery('.projectPhases').append(GT.Project.GetPhaseLogoMarkup(phases[ix], alternatePhases[phases[ix]], phases[ix] == phaseName, true, true, ix));
-            }
+            GT.jQuery.getJSON(String["format"]("{0}/SiteAssets/gt/config/phases/phaseconfig.txt", _spPageContextInfo.siteAbsoluteUrl)).then(function(alternatePhases) {
+                var phases = ['Konsept', 'Planlegge', 'Gjennomføre', 'Avslutte', 'Realisere'];
+                for (var ix = 0; ix < phases.length; ix++) {
+                    GT.jQuery('.projectPhases').append(GT.Project.GetPhaseLogoMarkup(phases[ix], alternatePhases[phases[ix]], phases[ix] == phaseName, true, true, ix));
+                }
+            });
         });
     });
 };
@@ -373,7 +420,7 @@ GT.Project.GetCurrentPhase = function () {
     var web = ctx.get_web();
     var props = web.get_allProperties();
     ctx.load(web);
-    ctx.load(props); //need to load the properties explicitly       
+    ctx.load(props); //need to load the properties explicitly
     ctx.executeQueryAsync(function () {
         var phase = props.get_fieldValues()['glittertind_persistedPhase'];
         console.log(phase);
@@ -395,7 +442,7 @@ GT.Project.PhaseForm.CheckList.getData = function () {
         var ctx = new SP.ClientContext.get_current();
         var list = ctx.get_web().get_lists().getByTitle('Fasesjekkliste');
         var camlQuery = new SP.CamlQuery();
-        camlQuery.set_viewXml("<View><Query><Where><Eq><FieldRef Name='GtProjectPhase'/><Value Type='TaxonomyFieldType'>" + phase + "</Value></Eq></Where><OrderBy><FieldRef Name='Title' /></OrderBy></Query></View>");
+        camlQuery.set_viewXml("<View><Query><Where><Eq><FieldRef Name='GtProjectPhase'/><Value Type='TaxonomyFieldType'>" + phase + "</Value></Eq></Where><OrderBy><FieldRef Name='ID' /></OrderBy></Query></View>");
         var listItems = list.getItems(camlQuery);
         ctx.load(listItems);
         ctx.executeQueryAsync(function () {

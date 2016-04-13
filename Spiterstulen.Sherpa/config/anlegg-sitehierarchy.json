@@ -5,7 +5,6 @@
     "ContentTypeConfigurations": [
         "bygganlegg-contenttypes.json"
     ],
-    "TaxonomyConfigurations": [],
     "RootWeb": {
         "Description": "",
         "Language": "1044",
@@ -16,7 +15,7 @@
         "ContentFolders": [
             {
                 "FolderName": "DisplayTemplates",
-                "ListName": "Master Page Gallery",
+                "ListUrl": "_catalogs/masterpage",
                 "FolderUrl": "Display Templates/Search",
                 "PropertiesFile": "properties.json",
                 "ExcludeExtensions": ".html"
@@ -29,12 +28,12 @@
             },
             {
                 "FolderName": "SiteAssets",
-                "ListName": "Site Assets",
+                "ListUrl": "SiteAssets",
                 "FolderUrl": "gt"
             },
             {
                 "FolderName": "SiteAssetsAnlegg",
-                "ListName": "Site Assets",
+                "ListUrl": "SiteAssets",
                 "FolderUrl": "gt"
             }
         ],

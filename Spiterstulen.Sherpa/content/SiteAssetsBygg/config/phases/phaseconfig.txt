@@ -1,0 +1,7 @@
+{
+    "Konsept": ["Mulighetsstudie (F0)","Programfase (F1)"],
+    "Planlegge": ["Skisseprosjekt (F2)", "Forprosjekt (F2)","Detaljprosjekt (F2)"],
+    "Gjennomføre": ["Byggfase (F3", "Sluttfase og overtakelse"],
+    "Avslutte": ["Prøvedrift"],
+    "Realisere": ["Forvaltning","Vedlikehold"]
+}

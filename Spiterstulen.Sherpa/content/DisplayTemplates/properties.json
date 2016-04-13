@@ -3,48 +3,41 @@
         "Path": "Glittertind_Control_Table_bygganlegg.js",
         "Url": "Glittertind_Control_Table_bygganlegg.js",
         "Properties": {
-            "Title": "Glittertind Table",
+            "Title": "Kontroll for Prosjektdetaljer Bygg/Anlegg",
             "MasterPageDescription": "",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106601",
             "DisplayTemplateLevel": "Control",
             "TemplateHidden": "0",
-            "TargetControlType": ";#Content Web Parts;#SearchResults;#"      
+            "TargetControlType": ";#Content Web Parts;#SearchResults;#"
         }
     },
     {
         "Path": "Glittertind_Item_Project_details_bygganlegg.js",
         "Url": "Glittertind_Item_Project_details_bygganlegg.js",
         "Properties": {
-            "Title": "Glittertind Project Details",
+            "Title": "Prosjektdetaljer Bygg/Anlegg",
             "MasterPageDescription": "",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603",
             "DisplayTemplateLevel": "Item",
             "TemplateHidden": "0",
-            "TargetControlType": ";#Content Web Parts;#SearchResults;#"      
+            "TargetControlType": ";#Content Web Parts;#SearchResults;#",
+            "ManagedPropertyMapping": "'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','ByggSistePolitiskeVedtakOWSDATE','ByggHPFase':'ByggHPFaseOWSCHCS','ByggRammeBudsjett':'ByggRammeBudsjettOWSNMBR','ByggTotalprognose':'ByggTotalprognoseOWSNMBR','ByggTilskudd':'ByggTilskuddOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtStatusPlanBuildCaseOWSCHCS'"
         }
     },
     {
         "Path": "Glittertind_Control_Table_bygganlegg.html",
         "Url": "Glittertind_Control_Table_bygganlegg.html",
         "Properties": {
-            "Title": "Glittertind Table",
-            "MasterPageDescription": "",
-            "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106601",
-            "DisplayTemplateLevel": "Control",
-            "TemplateHidden": "0",
-            "TargetControlType": ";#Content Web Parts;#SearchResults;#"      
+            "Title": "Kontroll for Prosjektdetaljer Bygg/Anlegg",
+            "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603"
         }
     },
     {
         "Path": "Glittertind_Item_Project_details_bygganlegg.html",
         "Url": "Glittertind_Item_Project_details_bygganlegg.html",
         "Properties": {
-            "Title": "Glittertind Project Details",
-            "MasterPageDescription": "",
-            "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603",
-            "DisplayTemplateLevel": "Item",
-            "TemplateHidden": "0",
-            "TargetControlType": ";#Content Web Parts;#SearchResults;#"      
+            "Title": "Prosjektdetaljer Bygg/Anlegg",
+            "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603"
         }
     }
 ]

@@ -1,0 +1,16 @@
+<style type="text/css">
+    #newProjectLink {
+        display: none;
+    }
+</style>
+
+<div id="newProjectLink">
+    <h2 style="text-align:justify;" class="ms-webpart-titleText">Nytt prosjektområde</h2>
+    <a href="OpprettProsjekt.aspx">Opprett prosjektområde</a><br/>
+    <a href="/sites/ppanlegg-demo/SitePages/OpprettProsjekt.aspx">Opprett <strong>anlegg</strong>sprosjektområde</a><br/>
+    <a href="/sites/ppbygg-demo/SitePages/OpprettProsjekt.aspx">Opprett <strong>bygg</strong>prosjektområde</a><br/>
+</div>
+
+<script type="text/javascript">
+    SP.SOD.executeOrDelayUntilScriptLoaded(GT.Provisioning.ShowLink, "sp.js");
+</script>

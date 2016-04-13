@@ -93,7 +93,7 @@
       "Dialog med tilskuddsyter opprettet",
       "Har søkt",
       "Har fått tilsagn",
-      "Har fått avslag",
+      "Har fått avslag"
     ]
   },
   {
@@ -107,7 +107,7 @@
   },
   {
     "Description"  : "",
-    "DisplayName"  : "Kommentar siste politiske vedtak",
+    "DisplayName"  : "Kommentar, siste politiske vedtak",
     "Group"        : "Bygg og Anlegg Områdekolonner",
     "ID"           : "a4d6090e-7a3f-4572-93bb-c9c8564225ed",
     "InternalName" : "ByggKommentarSistePolitiskeVedtak",
@@ -160,5 +160,34 @@
     "ID"           : "d5695ca9-e00f-4dd8-9c08-cbd24b113053",
     "InternalName" : "ByggForpliktetReserve",
     "Type"         : "Number"
+  },
+  {
+    "InternalName" : "GtStatusPlanBuildCase",
+    "DisplayName"  : "Status plan- og byggesak",
+    "ID"           : "fdf19db2-7f01-4c72-a356-e41294006b77",
+    "Group"        : "Bygg og Anlegg Områdekolonner",
+    "Format"       : "Dropdown",
+    "Type"         : "Choice",
+    "Default"      : "Reguleringsplan annonsert",
+    "Choices"      : [
+        "Reguleringsplan annonsert",
+        "Reguleringsplan 1.gangsbehandlet",
+        "Reguleringsplan godkjent",
+        "Forhåndskonferanse avholdt",
+        "Rammesøknad under utarbeidelse",
+        "Rammesøknad sendt",
+        "Rammetillatelse gitt",
+        "IG sendt",
+        "IG gitt",
+        "Klage under behandling"
+    ]
+  },
+  {
+    "Description"  : "",
+    "DisplayName"  : "Kommentar, status plan- og byggesak",
+    "Group"        : "Bygg og Anlegg Områdekolonner",
+    "ID"           : "89ac5b90-e605-4de6-921c-7a35fa1a144a",
+    "InternalName" : "ByggStatusByggesak",
+    "Type"         : "Note"
   }
 ]

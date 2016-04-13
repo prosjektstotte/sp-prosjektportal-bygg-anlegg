@@ -1,0 +1,30 @@
+﻿{
+    "FieldConfigurations": [],
+    "ContentTypeConfigurations": [],
+    "RootWeb": {
+        "Description": "",
+        "Language": "1044",
+        "Name": "Prosjektportal rotområde",
+        "Lists": [],
+        "Properties": {
+        },
+        "ContentFolders": [
+            {
+                "FolderName": "DisplayTemplates",
+                "ListUrl": "_catalogs/masterpage",
+                "FolderUrl": "Display Templates/Search",
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions": ".html"
+            },
+            {
+                "FolderName": "SiteAssetsPortfolio",
+                "ListUrl": "SiteAssets",
+                "FolderUrl": "gt"
+            }
+        ],
+        "Template": "",
+        "Url": "/",
+        "WebFeatures": [],
+        "Webs": [ ]
+    }
+}

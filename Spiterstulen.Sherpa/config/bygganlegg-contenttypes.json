@@ -30,8 +30,9 @@
          "ByggRegnskapsfortYearToDate",
          "ByggBudsjettYearToDate",
          "ByggPrognosisCurrentYear",
-         "ByggForpliktetReserve"
-
+         "ByggForpliktetReserve",
+         "GtStatusPlanBuildCase",
+         "ByggStatusByggesak"
       ],
       "Group"          : "Glittertind Innholdstyper",
       "HiddenFields"   : [

@@ -11,7 +11,7 @@ function DisplayTemplate_16f5b3d974c44a6bb5e15a3f311e5a21(ctx) {
   ctx['DisplayTemplateData']['TargetControlType']=['SearchResults', 'Content Web Parts'];
   this.DisplayTemplateData = ctx['DisplayTemplateData'];
 
-  ctx['DisplayTemplateData']['ManagedPropertyMapping']={'PrognoseDividedByRamme':['RefinableDecimal00'], 'ByggSistePolitiskeVedtakOWSDATE':null, 'ByggHPFase':['ByggHPFaseOWSCHCS'], 'ByggRammeBudsjett':['ByggRammeBudsjettOWSNMBR'], 'ByggTotalprognose':['ByggTotalprognoseOWSNMBR'], 'ByggTilskudd':['ByggTilskuddOWSCHCS'], 'Path':null, 'Title':null, 'ProjectManager':['GtProjectManagerOWSUSER'], 'ProjectOwner':['GtProjectOwnerOWSUSER'], 'ProjectPhase':['owstaxIdGtProjectPhase'], 'Created':null, 'GtProjectGoalsOWSMTXT':null, 'GtStatusTimeOWSCHCS':null, 'GtStatusRiskOWSCHCS':null, 'GtStatusBudgetOWSCHCS':null, 'LastModifiedTime':null, 'GtEndDateOWSDATE':null};
+  ctx['DisplayTemplateData']['ManagedPropertyMapping']={'PrognoseDividedByRamme':['RefinableDecimal00'], 'ByggSistePolitiskeVedtakOWSDATE':null, 'ByggHPFase':['ByggHPFaseOWSCHCS'], 'ByggRammeBudsjett':['ByggRammeBudsjettOWSNMBR'], 'ByggTotalprognose':['ByggTotalprognoseOWSNMBR'], 'ByggTilskudd':['ByggTilskuddOWSCHCS'], 'Path':null, 'Title':null, 'ProjectManager':['GtProjectManagerOWSUSER'], 'ProjectOwner':['GtProjectOwnerOWSUSER'], 'ProjectPhase':['owstaxIdGtProjectPhase'], 'Created':null, 'GtProjectGoalsOWSMTXT':null, 'GtStatusTimeOWSCHCS':null, 'GtStatusRiskOWSCHCS':null, 'GtStatusBudgetOWSCHCS':null, 'LastModifiedTime':null, 'GtEndDateOWSDATE':null, 'GtStatusPlanBuildCaseOWSCHCS':null};
   var cachePreviousItemValuesFunction = ctx['ItemValues'];
   ctx['ItemValues'] = function(slotOrPropName) {
     return Srch.ValueInfo.getCachedCtxItemValue(ctx, slotOrPropName)
@@ -62,11 +62,15 @@ ms_outHtml.push('',''
         var byggTotalprognose = parseFloat($getItemValue(ctx, "ByggTotalprognose").value) || 0;
         var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
 		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
-		var sluttDato = new Date($getItemValue(ctx, "GtEndDateOWSDATE").inputValue).format("dd.MM.yyyy");
+        var sluttDatoData = $getItemValue(ctx, "GtEndDateOWSDATE");
+        var sluttDato = "Ikke satt";
+        if (!sluttDatoData.isEmpty) {
+            sluttDato = new Date(sluttDatoData.inputValue).format("dd.MM.yyyy");
+        }
+
         var statusBuildPlanCase = $getItemValue(ctx, "GtStatusPlanBuildCaseOWSCHCS");
 
 		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
-		console.log(prognoseDividedByRamme);
 
         var totalPrognoseCss = "";
 

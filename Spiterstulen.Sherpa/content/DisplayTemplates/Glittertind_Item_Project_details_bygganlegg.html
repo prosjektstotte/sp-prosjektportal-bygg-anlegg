@@ -1,11 +1,11 @@
 <html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
 <head>
-    <title>Glittertind Prosjektdetaljer bygganlegg</title>
+    <title>Prosjektdetaljer Bygg/Anlegg</title>
 
     <!--[if gte mso 9]><xml>
     <mso:CustomDocumentProperties>
         <mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
-        <mso:ManagedPropertyMapping msdt:dt="string">&#39;PrognoseDividedByRamme&#39;:&#39;RefinableDecimal00&#39;,&#39;ByggSistePolitiskeVedtakOWSDATE&#39;,&#39;ByggHPFase&#39;:&#39;ByggHPFaseOWSCHCS&#39;,&#39;ByggRammeBudsjett&#39;:&#39;ByggRammeBudsjettOWSNMBR&#39;,&#39;ByggTotalprognose&#39;:&#39;ByggTotalprognoseOWSNMBR&#39;,&#39;ByggTilskudd&#39;:&#39;ByggTilskuddOWSCHCS&#39;,&#39;Path&#39;,&#39;Title&#39;, &#39;ProjectManager&#39;:&#39;GtProjectManagerOWSUSER&#39;,&#39;ProjectOwner&#39;:&#39;GtProjectOwnerOWSUSER&#39;,&#39;ProjectPhase&#39;:&#39;owstaxIdGtProjectPhase&#39;,&#39;Created&#39;,&#39;GtProjectGoalsOWSMTXT&#39;,&#39;GtStatusTimeOWSCHCS&#39;,&#39;GtStatusRiskOWSCHCS&#39;,&#39;GtStatusBudgetOWSCHCS&#39;,&#39;LastModifiedTime&#39;,&#39;GtEndDateOWSDATE&#39;,&#39;GtStatusPlanBuildCaseOWSCHCS&#39;</mso:ManagedPropertyMapping>
+        <mso:ManagedPropertyMapping msdt:dt="string">'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','ByggSistePolitiskeVedtakOWSDATE','ByggHPFase':'ByggHPFaseOWSCHCS','ByggRammeBudsjett':'ByggRammeBudsjettOWSNMBR','ByggTotalprognose':'ByggTotalprognoseOWSNMBR','ByggTilskudd':'ByggTilskuddOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtStatusPlanBuildCaseOWSCHCS'</mso:ManagedPropertyMapping>
         <mso:MasterPageDescription msdt:dt="string">Glittertind visningsmal for a vise prosjektdetaljer</mso:MasterPageDescription>
         <mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F385106603</mso:ContentTypeId>
         <mso:TargetControlType msdt:dt="string">;#SearchResults;#Content Web Parts;#</mso:TargetControlType>
@@ -80,11 +80,14 @@
         var byggTotalprognose = parseFloat($getItemValue(ctx, "ByggTotalprognose").value) || 0;
         var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
 		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
-		var sluttDato = new Date($getItemValue(ctx, "GtEndDateOWSDATE").inputValue).format("dd.MM.yyyy");
+		var sluttDatoData = $getItemValue(ctx, "GtEndDateOWSDATE");
+        var sluttDato = "Ikke satt";
+        if (!sluttDatoData.isEmpty) {
+            sluttDato = new Date(sluttDatoData.inputValue).format("dd.MM.yyyy");
+        }
         var statusBuildPlanCase = $getItemValue(ctx, "GtStatusPlanBuildCaseOWSCHCS");
 
 		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
-		console.log(prognoseDividedByRamme);
 
         var totalPrognoseCss = "";
 
