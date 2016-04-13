@@ -30,9 +30,12 @@
             {
                 "FolderName": "SiteAssets",
                 "ListName": "Site Assets",
-                "FolderUrl": "gt",
-                "PropertiesFile": "properties.json",
-                "ExcludeExtensions": ""
+                "FolderUrl": "gt"
+            },
+            {
+                "FolderName": "SiteAssetsAnlegg",
+                "ListName": "Site Assets",
+                "FolderUrl": "gt"
             }
         ],
         "Quicklaunch": {
@@ -44,11 +47,6 @@
         "Template": "",
         "Url": "/",
         "WebFeatures": [],
-        "CustomTaskTypes" :  [
-        {
-            "Fullname" :  "DeleteDefaultDocuments.Task"
-        }
-       ],
         "Webs": [ ]
     }
 }

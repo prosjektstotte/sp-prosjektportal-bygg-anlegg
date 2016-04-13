@@ -1,0 +1,52 @@
+﻿{
+    "FieldConfigurations": [
+        "bygganlegg-fields.json"
+    ],
+    "ContentTypeConfigurations": [
+        "bygganlegg-contenttypes.json"
+    ],
+    "TaxonomyConfigurations": [],
+    "RootWeb": {
+        "Description": "",
+        "Language": "1044",
+        "Name": "Prosjektportal rotområde",
+        "Lists": [],
+        "Properties": {
+        },
+        "ContentFolders": [
+            {
+                "FolderName": "DisplayTemplates",
+                "ListName": "Master Page Gallery",
+                "FolderUrl": "Display Templates/Search",
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions": ".html"
+            },
+            {
+                "FolderName": "DefaultDocuments",
+                "ListName": "Standarddokumenter",
+                "FolderUrl": "",
+                "PropertiesFile": "properties.json"
+            },
+            {
+                "FolderName": "SiteAssets",
+                "ListName": "Site Assets",
+                "FolderUrl": "gt"
+            },
+            {
+                "FolderName": "SiteAssetsBygg",
+                "ListName": "Site Assets",
+                "FolderUrl": "gt"
+            }
+        ],
+        "Quicklaunch": {
+            "Hjem": "",
+            "Porteføljeoversikt": "SitePages/PortefoljeOversiktAlternativ.aspx",
+            "Erfaringslogg": "SitePages/Erfaringslogg.aspx",
+            "Standarddokumenter": "Standarddokumenter"
+        },
+        "Template": "",
+        "Url": "/",
+        "WebFeatures": [],
+        "Webs": [ ]
+    }
+}
