@@ -12,10 +12,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -44,10 +40,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -55,7 +47,7 @@
             "Fields": [
               {
                 "Name": "Title",
-                "Value": "fylle ut sjekkliste for oppdragsavtale"
+                "Value": "Fylle ut sjekkliste for oppdragsavtale"
               },
               {
                 "Name": "GtProjectPhase",
@@ -94,10 +86,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -110,10 +98,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -131,6 +115,20 @@
             "Name": "GtProjectTaskUrl",
             "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
           }
+        ],
+        "Rows": [
+          {
+            "Fields": [
+              {
+                "Name": "Title",
+                "Value": "Utføre sidemannskontroll av oppdragsbeskrivelse"
+              },
+              {
+                "Name": "GtProjectPhase",
+                "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
+              }
+            ]
+          }
         ]
       },
       {
@@ -142,10 +140,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -158,10 +152,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -174,10 +164,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -190,10 +176,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -206,10 +188,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -222,10 +200,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           }
@@ -240,13 +214,8 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
-        ],
-        "Rows": [ ]
+        ]
       },
       {
         "Fields": [
@@ -257,10 +226,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -278,8 +243,7 @@
             "Name": "GtProjectTaskUrl",
             "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
           }
-        ],
-        "Rows": [ ]
+        ]
       },
       {
         "Fields": [
@@ -306,10 +270,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -322,10 +282,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -338,10 +294,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -354,10 +306,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -370,10 +318,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -386,10 +330,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           }
@@ -404,10 +344,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -420,10 +356,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -436,10 +368,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -452,10 +380,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -484,10 +408,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -548,10 +468,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -564,10 +480,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -580,10 +492,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -612,10 +520,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -628,10 +532,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -660,10 +560,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -676,10 +572,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -692,10 +584,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -726,10 +614,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -742,10 +626,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           }
@@ -760,10 +640,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -776,10 +652,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -792,10 +664,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -808,10 +676,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -824,10 +688,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -840,10 +700,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -856,10 +712,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -952,10 +804,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -968,10 +816,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -984,10 +828,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1000,10 +840,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1016,10 +852,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1032,10 +864,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1096,10 +924,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1130,10 +954,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1146,10 +966,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1162,13 +978,8 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
-        ],
-        "Rows": [ ]
+        ]
       },
       {
         "Fields": [
@@ -1195,10 +1006,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1211,10 +1018,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           }
@@ -1229,13 +1032,8 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
-        ],
-        "Rows": [ ]
+        ]
       },
       {
         "Fields": [
@@ -1246,13 +1044,8 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
-        ],
-        "Rows": [ ]
+        ]
       },
       {
         "Fields": [
@@ -1263,10 +1056,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -1279,10 +1068,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ],
             "Rows": [
@@ -1295,10 +1080,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1311,10 +1092,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1327,10 +1104,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1343,10 +1116,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1359,10 +1128,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1375,10 +1140,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1471,10 +1232,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1487,10 +1244,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1503,10 +1256,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1535,10 +1284,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1551,10 +1296,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1567,10 +1308,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1583,10 +1320,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1617,10 +1350,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ],
             "Rows": [
@@ -1697,10 +1426,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1713,10 +1438,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
@@ -1729,14 +1450,9 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": ""
                   }
                 ]
               },
-
               {
                 "Fields": [
                   {
@@ -1798,10 +1514,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1814,10 +1526,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1830,10 +1538,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1846,10 +1550,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1862,10 +1562,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1878,10 +1574,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1894,10 +1586,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1910,10 +1598,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -1926,10 +1610,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ],
         "Rows": [
@@ -1942,10 +1622,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1974,10 +1650,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -1990,10 +1662,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -2006,10 +1674,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -2038,10 +1702,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           },
@@ -2070,10 +1730,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": ""
               }
             ]
           }
@@ -2088,10 +1744,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       },
@@ -2104,10 +1756,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Realisere|b7ba84f0-70b9-45c4-8c50-8f73bf15bbec"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": ""
           }
         ]
       }

@@ -32,23 +32,25 @@ GT.Project.HideProductsInLogFormIfEmpty = function () {
 };
 
 GT.Project.ShowMetadataIfIsWelcomePage = function () {
-    var selector = ".projectFrontPage .rightColumnStatic";
-    var ctx = SP.ClientContext.get_current();
-    var web = ctx.get_web();
-    var rootFolder = web.get_rootFolder();
+    SP.SOD.executeFunc('sp.js', 'SP.ClientContext', function () {
+		var selector = ".projectFrontPage .rightColumnStatic";
+		var ctx = SP.ClientContext.get_current();
+		var web = ctx.get_web();
+		var rootFolder = web.get_rootFolder();
 
-    ctx.load(rootFolder);
-    ctx.executeQueryAsync(function () {
-        var welcomePage = rootFolder.get_welcomePage();
-        if (_spPageContextInfo.serverRequestPath.endsWith(welcomePage)) {
-            GT.jQuery(selector).show();
-        } else {
-            GT.jQuery(selector).html('<p>Informasjon om prosjektet er kun tilgjengelig fra <a href="../' + welcomePage + '">forsiden</a></p>').show();
-        }
+		ctx.load(rootFolder);
+		ctx.executeQueryAsync(function () {
+			var welcomePage = rootFolder.get_welcomePage();
+			if (_spPageContextInfo.serverRequestPath.endsWith(welcomePage)) {
+				GT.jQuery(selector).show();
+			} else {
+				GT.jQuery(selector).html('<p>Informasjon om prosjektet er kun tilgjengelig fra <a href="../' + welcomePage + '">forsiden</a></p>').show();
+			}
 
-    }, function () {
-        console.log('An error has accured. Showing metadata to avoid hiding it in fault.');
-        GT.jQuery(selector).show();
+		}, function () {
+			console.log('An error has accured. Showing metadata to avoid hiding it in fault.');
+			GT.jQuery(selector).show();
+		});
     });
 };
 
@@ -407,9 +409,7 @@ GT.Project.PhaseForm.CheckList.render = function () {
                                 '<span class="gt-checklist-title">', items[i].Title, '</span></a>',
                         '</li>');
         }
-        outHtml.push('</ul>',
-                '<div>Fasesjekkliste er basert på beslutningspunkt fra <a href="http://prosjektveiviseren.no/" target="_blank">Prosjektveiviseren</a></div>',
-                '</div>');
+        outHtml.push('</ul></div>');
         GT.jQuery(".ms-webpart-zone.ms-fullWidth").append(outHtml.join(""));
     });
 };

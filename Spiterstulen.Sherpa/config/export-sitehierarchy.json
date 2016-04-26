@@ -13,7 +13,7 @@
             {
                 "Description": "",
                 "Language": "1044",
-                "Name": "t01",
+                "Name": "testanlegg",
                 "Lists": [
                     {
                         "Title": "Oppgaver",
@@ -23,7 +23,7 @@
                     }
                 ],
                 "Template": "",
-                "Url": "test4mars",
+                "Url": "testanlegg",
                 "WebFeatures": []
             }
          ]
