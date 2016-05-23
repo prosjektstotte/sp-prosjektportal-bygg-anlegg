@@ -1,3 +1,5 @@
+Prosjektportalen for bygg og anlegg er under utarbeiding, og det foreligger pt. ingen installerbar pakke. Det foregår et arbeid for å lage en pakke som kan installeres over prosjektportalen.
+
 ﻿Prosjektportal for SharePoint
 =================
 
