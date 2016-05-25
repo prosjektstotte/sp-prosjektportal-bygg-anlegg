@@ -22,7 +22,7 @@
     {
         "Url": "Lists/Fasesjekkliste",
         "Title": "Fasesjekkliste"
-    },    
+    },
     {
         "Url": "SitePages/Ufiltrert.aspx",
         "Title": "Forside alle faser"
@@ -30,5 +30,14 @@
     {
         "Url": "SitePages/Tilordnet.aspx",
         "Title": "Mine prosjektelementer"
+    },
+    {
+        "Url": "http://innsiden/Organisasjon-og-ledelse/Felles-ledelsessystem/REs-handboker-ledelsessystem-/",
+        "Title": "Felles ledelsessystem"
+    },
+    {
+        "Url": "{site}/SitePages/Forms/DispForm.aspx?ID=3&EditMode=Project",
+        "Title": "Prosjektrapport",
+		"IsExternal": true
     }
 ]
