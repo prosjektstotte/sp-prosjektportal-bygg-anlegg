@@ -24,10 +24,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Oppdragsbestilling.doc"
               }
             ]
           },
@@ -52,10 +48,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste%20for%20oppdragsavtale-%20anlegg.doc"
               }
             ]
           }
@@ -70,10 +62,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Konsept|99e85650-33de-4af4-b8db-edffbc8a310b"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Natur%20og%20idrett/Dokumenter%20som%20produseres/Spillemidler/Rutinebeskrivelse%20for%20prosjekter%20som%20skal%20motta%20spillemidler.doc"
           }
         ]
       },
@@ -110,10 +98,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
           }
         ],
         "Rows": [
@@ -238,10 +222,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Anskaffelsesprosessen.doc"
           }
         ]
       },
@@ -254,10 +234,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Avtale%20om%20SHA-%20koordinering%20Prosjektering%20(KP).doc"
           }
         ]
       },
@@ -392,10 +368,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
               }
             ]
           },
@@ -420,10 +392,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
               }
             ]
           },
@@ -436,10 +404,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste%20SHA-%20koordinator%20Prosjektering%20(KP).doc"
               }
             ]
           },
@@ -452,10 +416,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/Felles/Kap%205/Sjekklister%20og%20maler/5.11%20Prosjektstyring/Standard%20skjema%20for%20risikovurdering%20prosjekt.xls"
               }
             ]
           },
@@ -504,10 +464,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Interessentanalyse.xlsx"
               }
             ]
           },
@@ -544,10 +500,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Naboinformasjon.doc"
               }
             ]
           },
@@ -596,10 +548,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Prosjekteringsfasen.docx"
               }
             ]
           }
@@ -724,10 +672,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Konkurransegrunnlag-%20anlegg"
               }
             ]
           },
@@ -740,10 +684,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Protokoll%20for%20anskaffelser%20over%20500.000%20kr..doc"
               }
             ]
           },
@@ -756,10 +696,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/%C3%85pningsprotokoll.doc"
               }
             ]
           },
@@ -772,10 +708,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/M%C3%B8tereferat-%20Anbudsorientering_befaring.doc"
               }
             ]
           },
@@ -788,10 +720,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Avtale%20om%20SHA-%20koordinering%20Utf%C3%B8relse%20(KU).doc"
               }
             ]
           },
@@ -876,10 +804,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsanmodning.doc"
               }
             ]
           },
@@ -892,10 +816,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsordre.doc"
               }
             ]
           },
@@ -908,10 +828,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
               }
             ]
           },
@@ -936,10 +852,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Planlegge|cda4f1e1-3488-4e57-8a04-6973df239689"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Kontraheringsfasen.docx"
               }
             ]
           }
@@ -990,10 +902,6 @@
           {
             "Name": "GtProjectPhase",
             "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-          },
-          {
-            "Name": "GtProjectTaskUrl",
-            "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Dokumenter%20som%20produseres/Prosess_Sikkerhet,%20helse%20og%20arbeidsmilj%C3%B8.doc"
           }
         ],
         "Rows": [
@@ -1152,10 +1060,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsanmodning.doc"
                   }
                 ]
               },
@@ -1168,10 +1072,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endringsordre.doc"
                   }
                 ]
               },
@@ -1184,10 +1084,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Endring%20av%20oppdragsbestilling.doc"
                   }
                 ]
               },
@@ -1200,10 +1096,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
                   }
                 ]
               },
@@ -1216,10 +1108,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Milj%C3%B8plan-%20anleggsprosjekter.docx"
                   }
                 ]
               },
@@ -1268,10 +1156,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Interessentanalyse.xlsx"
                   }
                 ]
               },
@@ -1332,10 +1216,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sjekkliste-%20Anlegg-Anleggsfasen.docx"
                   }
                 ]
               }
@@ -1362,10 +1242,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/SHA-plan.docx"
                   }
                 ]
               },
@@ -1378,10 +1254,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Milj%C3%B8plan-%20anleggsprosjekter.docx"
                   }
                 ]
               },
@@ -1394,10 +1266,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Varslingsplan.doc"
                   }
                 ]
               },
@@ -1410,10 +1278,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Fremdriftsplan.xls"
                   }
                 ]
               },
@@ -1462,10 +1326,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "http://byggeregler.dibk.no/cms/content/uploads/5178-Sluttrapport-med-avfallsplan-for-nybygg1.pdf"
                   }
                 ]
               },
@@ -1478,10 +1338,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "http://byggeregler.dibk.no/cms/content/uploads/5179-Sluttrapport-med-avfallsplan-for-rehabilitering-og-riving.pdf"
                   }
                 ]
               },
@@ -1494,10 +1350,6 @@
                   {
                     "Name": "GtProjectPhase",
                     "Value": "Gjennomføre|99d7765a-c786-4792-a1a1-866ef0f982b9"
-                  },
-                  {
-                    "Name": "GtProjectTaskUrl",
-                    "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sluttdokumentasjon-%20anlegg.doc"
                   }
                 ]
               }
@@ -1634,10 +1486,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Overtakelsesprotokoll.DOC"
               }
             ]
           },
@@ -1686,10 +1534,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Overleveringsprotokoll.doc"
               }
             ]
           },
@@ -1714,10 +1558,6 @@
               {
                 "Name": "GtProjectPhase",
                 "Value": "Avslutte|30e03c52-8c3e-4cfe-9b18-ca71593ce130"
-              },
-              {
-                "Name": "GtProjectTaskUrl",
-                "Value": "file://akinse008/gruppe/Felles%20Ledelsessystem/RE/Prosjekt%20og%20utbygging/Sjekklister%20og%20maler/Sluttrapport.doc"
               }
             ]
           },
