@@ -10,8 +10,14 @@
 	        "RowLimit": 0,
 	        "Query": ""
 	    },
-		{  	"Name": "Kalender"    },
-		{	"Name": "Mine oppgaver" },
+		{
+			"Name": "Kalender",
+			"Delete": true
+		},
+		{
+			"Name": "Mine oppgaver"
+			"Delete": true
+		},
 		{
 			"Name": "_Mine oppgaver",
 			"ViewFields": ["Checkmark", "LinkTitle", "DueDate", "AssignedTo", "GtProjectPhase"],
