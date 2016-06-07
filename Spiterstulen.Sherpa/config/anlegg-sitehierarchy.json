@@ -10,8 +10,6 @@
         "Language": "1044",
         "Name": "Prosjektportal rotområde",
         "Lists": [],
-        "Properties": {
-        },
         "ContentFolders": [
             {
                 "FolderName": "DisplayTemplates",
@@ -21,10 +19,11 @@
                 "ExcludeExtensions": ".html"
             },
             {
-                "FolderName": "DefaultDocuments",
+                "FolderName": "DefaultDocumentFolders",
                 "ListName": "Standarddokumenter",
                 "FolderUrl": "",
-                "PropertiesFile": "properties.json"
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions":".xml,.placeholder"
             },
             {
                 "FolderName": "SiteAssets",
@@ -37,11 +36,16 @@
                 "FolderUrl": "gt"
             }
         ],
+        "Properties":{
+            "projectportal_variant":"anlegg"
+        },
         "Quicklaunch": {
-            "Hjem": "",
-            "Porteføljeoversikt": "SitePages/PortefoljeOversiktAlternativ.aspx",
-            "Erfaringslogg": "SitePages/Erfaringslogg.aspx",
-            "Standarddokumenter": "Standarddokumenter"
+            "Hjem":"",
+            "Porteføljeoversikt":"SitePages/PortefoljeOversikt.aspx",
+            "Porteføljeoppfølging":"SitePages/PortefoljeOppfolging.aspx",
+            "Erfaringslogg":"SitePages/Erfaringslogg.aspx",
+            "Standarddokumenter":"Standarddokumenter",
+            "Områdeinnhold":"_layouts/15/viewlsts.aspx"
         },
         "Template": "",
         "Url": "/",
