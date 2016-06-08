@@ -9,10 +9,10 @@
     "ContentTypeConfigurations": [
         "bygganlegg-contenttypes.json"
     ],
-    "CustomActionsPrefix": "GTBA",
+    "CustomActionsPrefix": "PPBA",
     "CustomActions": [
         {
-            "Id": "PPOverrides",
+            "Id": "CSSOverrides",
             "Sequence": "10",
             "Location": "ScriptLink",
             "ScriptBlock": "registerCssLink(_spPageContextInfo.siteServerRelativeUrl + '/SiteAssets/gt/css/gt.style.overrides.css');"
