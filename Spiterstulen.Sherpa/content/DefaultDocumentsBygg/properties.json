@@ -1,0 +1,65 @@
+[
+  {
+    "Path": "Gevinstrealiseringsplan.docx",
+    "Url": "Gevinstrealiseringsplan.docx",
+    "Properties": {
+      "Title": "Gevinstrealiseringsplan",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Realisere|37f7238a-8d96-4d28-b3e1-ac2a9c59b40"
+    }
+  },
+  {
+    "Path": "Prosjektbegrunnelse.docx",
+    "Url": "Prosjektbegrunnelse.docx",
+    "Properties": {
+      "Title": "Prosjektbegrunnelse",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Flere faser|b9f1878f-d9b0-4933-9798-84dd92f6fb9e"
+    }
+  },
+  {
+    "Path": "Prosjektforslag.docx",
+    "Url": "Prosjektforslag.docx",
+    "Properties": {
+      "Title": "Prosjektforslag",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Planlegge|1692b4b4-bfce-4614-91b9-767d1bbb0c6b"
+    }
+  },
+  {
+    "Path": "Prosjektmandat.docx",
+    "Url": "Prosjektmandat.docx",
+    "Properties": {
+      "Title": "Prosjektmandat",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Konsept|35997358-534f-475b-be9f-2544a3b80c8d"
+    }
+  },
+  {
+    "Path": "Sluttrapport.docx",
+    "Url": "Sluttrapport.docx",
+    "Properties": {
+      "Title": "Sluttrapport",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Avslutte|2adec1fc-dc6d-4db7-bb5f-067287010fb7"
+    }
+  },
+  {
+    "Path": "Styringsdokument.docx",
+    "Url": "Styringsdokument.docx",
+    "Properties": {
+      "Title": "Styringsdokument",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
+    }
+  },
+  {
+    "Path": "Samleskjema mappestruktur PRU.doc",
+    "Url": "Samleskjema mappestruktur PRU.doc",
+    "Properties": {
+      "Title": "Samleskjema mappestruktur PRU",
+      "ContentTypeId": "0x010100293fde3fcada480b9a77bbdad7dfa28c01",
+      "GtProjectPhase": "-1;#Flere faser|b9f1878f-d9b0-4933-9798-84dd92f6fb9e"
+    }
+  }
+]

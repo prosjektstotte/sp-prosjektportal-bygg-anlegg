@@ -39,6 +39,13 @@
                 "ExcludeExtensions":".xml,.placeholder"
             },
             {
+                "FolderName": "DefaultDocumentsBygg",
+                "ListName": "Standarddokumenter",
+                "FolderUrl": "",
+                "PropertiesFile": "properties.json",
+                "ExcludeExtensions":".xml,.placeholder"
+            },
+            {
                 "FolderName": "SiteAssets",
                 "ListUrl": "SiteAssets",
                 "FolderUrl": "gt"
