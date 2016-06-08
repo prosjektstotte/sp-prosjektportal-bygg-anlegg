@@ -1,0 +1,67 @@
+{
+   "TermSets":[
+      {
+         "Terms":[
+            {
+               "Title":"Konsept",
+               "Id":"dca0a226-0907-4c54-8624-6b51fcac7a92",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"true",
+                  "SubText":"Initiering"
+               }
+            },
+            {
+               "Title":"Planlegge",
+               "Id":"1c286a0e-da40-451a-bab2-9e0583392ee3",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"true",
+                  "SubText":"Prosjektering, Kontrahering"
+               }
+            },
+            {
+               "Title":"Gjennomf\u00f8re",
+               "Id":"9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"true",
+                  "SubText":"Anleggsfase"
+               }
+            },
+            {
+               "Title":"Avslutte",
+               "Id":"1807d6c2-b4bd-415f-98aa-a4a2ccff8d11",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"true",
+                  "SubText":"Overtakelse og overlevering"
+               }
+            },
+            {
+               "Title":"Realisere",
+               "Id":"2f757e1c-7e2b-4be6-9eba-ecafe37531b6",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"true",
+                  "SubText":"Bruks og driftsfase"
+               }
+            },
+            {
+               "Title":"Flere faser",
+               "Id":"b20372b0-cf28-4a68-becd-e57bbebdb1c2",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"false"
+               }
+            },
+            {
+               "Title":"Ingen fase",
+               "Id":"84d5fe32-ac24-4c7c-a3f7-45975ef3c901",
+               "LocalCustomProperties":{
+                  "ShowOnFrontpage":"false"
+               }
+            }
+         ],
+         "Title":"Fase (Anlegg)",
+         "Id":"cc6cdd18-c7d5-42e1-8d19-a336dd78f3f2",
+         "CustomSortOrder":"84d5fe32-ac24-4c7c-a3f7-45975ef3c901:b20372b0-cf28-4a68-becd-e57bbebdb1c2:dca0a226-0907-4c54-8624-6b51fcac7a92:1c286a0e-da40-451a-bab2-9e0583392ee3:9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc:1807d6c2-b4bd-415f-98aa-a4a2ccff8d11:2f757e1c-7e2b-4be6-9eba-ecafe37531b6"
+      }
+   ],
+   "Title":"Prosjektportalen",
+   "Id":"c56bb677-f782-4cf6-a6d6-17685ee9f19d"
+}

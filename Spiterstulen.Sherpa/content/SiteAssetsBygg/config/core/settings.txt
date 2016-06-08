@@ -1,0 +1,6 @@
+{
+	"PhaseSettings": {
+		"FieldInternalName":"GtProjectPhase",
+		"TermSetId":"ec5ceb95-7259-4282-811f-7c57304be71e"
+	}
+}

@@ -1,5 +1,9 @@
 ﻿{
+    "TaxonomyConfigurations": [
+        "anlegg-taxonomy.json"
+    ],
     "FieldConfigurations": [
+        "anlegg-fields.json",
         "bygganlegg-fields.json"
     ],
     "ContentTypeConfigurations": [

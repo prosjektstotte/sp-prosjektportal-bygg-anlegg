@@ -1,0 +1,20 @@
+[
+   {
+      "Description"  : "",
+      "DisplayName"  : "Produksjonsfase",
+      "Group"        : "Glittertind Områdekolonner",
+      "ID"           : "5563056f-533f-4333-bd29-85a2f94a37d0",
+      "InternalName" : "GtProductPhase",
+      "TermSetId"    : "ec5ceb95-7259-4282-811f-7c57304be71e",
+      "Type"         : "TaxonomyFieldType"
+   },
+   {
+      "Description"  : "",
+      "DisplayName"  : "Fase",
+      "Group"        : "Glittertind Områdekolonner",
+      "ID"           : "325543a5-815d-485d-a9a5-e0773ad762e9",
+      "InternalName" : "GtProjectPhase",
+      "TermSetId"    : "ec5ceb95-7259-4282-811f-7c57304be71e",
+      "Type"         : "TaxonomyFieldType"
+   }
+]

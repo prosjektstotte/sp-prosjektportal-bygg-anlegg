@@ -1,5 +1,9 @@
 ﻿{
+    "TaxonomyConfigurations": [
+        "bygg-taxonomy.json"
+    ],
     "FieldConfigurations": [
+        "bygg-fields.json",
         "bygganlegg-fields.json"
     ],
     "ContentTypeConfigurations": [

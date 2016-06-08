@@ -1,7 +1,0 @@
-{
-    "Konsept": ["Initiering"],
-    "Planlegge": ["Prosjektering", "Kontrahering"],
-    "Gjennomføre": ["Anleggsfase"],
-    "Avslutte": ["Overtakelse og overlevering"],
-    "Realisere": ["Bruks og driftsfase"]
-}
