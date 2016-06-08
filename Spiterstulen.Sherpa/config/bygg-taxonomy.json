@@ -4,7 +4,7 @@
          "Terms":[
             {
                "Title":"Konsept",
-               "Id":"68b4dc1e-4684-43b8-b3a7-1ac5068cca45b",
+               "Id":"35997358-534f-475b-be9f-2544a3b80c8d",
                "LocalCustomProperties":{
                   "ShowOnFrontpage":"true",
                   "SubText":"Mulighetsstudie (F0), Programfase (F1)"
@@ -59,7 +59,7 @@
          ],
          "Title":"Fase (Bygg)",
          "Id":"ec5ceb95-7259-4282-811f-7c57304be71e",
-         "CustomSortOrder":"7fd5a4da-83dc-4f8b-892f-b575352c4ce4:b9f1878f-d9b0-4933-9798-84dd92f6fb9e:68b4dc1e-4684-43b8-b3a7-1ac5068cca45b:1692b4b4-bfce-4614-91b9-767d1bbb0c6b:41c4d900-ec57-4779-a218-35e302b69e21:2adec1fc-dc6d-4db7-bb5f-067287010fb7:37f7238a-8d96-4d28-b3e1-ac2a9c59b40c"
+         "CustomSortOrder":"7fd5a4da-83dc-4f8b-892f-b575352c4ce4:b9f1878f-d9b0-4933-9798-84dd92f6fb9e:35997358-534f-475b-be9f-2544a3b80c8d:1692b4b4-bfce-4614-91b9-767d1bbb0c6b:41c4d900-ec57-4779-a218-35e302b69e21:2adec1fc-dc6d-4db7-bb5f-067287010fb7:37f7238a-8d96-4d28-b3e1-ac2a9c59b40c"
       }
    ],
    "Title":"Prosjektportalen",
