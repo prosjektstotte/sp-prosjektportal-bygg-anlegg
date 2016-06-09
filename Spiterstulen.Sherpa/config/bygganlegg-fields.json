@@ -1,193 +1,241 @@
 [
-  {
-    "DisplayName"  : "Investeringsfase",
-    "InternalName" : "ByggHPFase",
-    "Default"      : "F0",
-    "Description"  : "",
-    "Format"       : "Dropdown",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "a9d7045c-3816-48b5-bc8e-fb908b39868a",
-    "Type"         : "Choice",
-    "Choices"      : [
-      "F0",
-      "F1",
-      "F2",
-      "F3",
-      "Ikke relevant"
-    ]
-  },
-  {
-    "InternalName" : "GtStatusRisk",
-    "DisplayName"  : "Status risiko",
-    "Choices"      : [
-      "Lav",
-      "Medium",
-      "Høy"
-    ],
-    "Default"      : "Medium",
-    "Description"  : "",
-    "Format"       : "Dropdown",
-    "Group"        : "Glittertind Områdekolonner",
-    "ID"           : "fc8a879d-83bc-4670-b1f6-c9817e333614",
-    "Type"         : "Choice"
-  },
-  {
-    "DisplayName"  : "Status tid",
-    "InternalName" : "GtStatusTime",
-    "Choices"      : [
-      "Foran plan",
-      "På plan",
-      "Mindre forsinkelse / Forsinkelse som kan taes igjen",
-      "Etter plan"
-    ],
-    "Default"      : "",
-    "Description"  : "",
-    "Format"       : "Dropdown",
-    "Group"        : "Glittertind Områdekolonner",
-    "ID"           : "1447ef51-8e9b-4d16-aa2a-526dc9f1539e",
-    "Type"         : "Choice"
-  },
-  {
-    "Choices"      : [
-      "Under budsjett",
-      "På budsjett",
-      "Over budsjett",
-      "Vet ikke"
-    ],
-    "Default"      : "På budsjett",
-    "Description"  : "",
-    "DisplayName"  : "Status budsjett",
-    "Format"       : "Dropdown",
-    "Group"        : "Glittertind Områdekolonner",
-    "ID"           : "a9902b9d-8aad-40df-9788-ba73c64c3cb5",
-    "InternalName" : "GtStatusBudget",
-    "Type"         : "Choice"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "HP-ramme/ Budsjettramme (i mill. NOK)",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "273fd5f5-f04b-4458-8062-2413003c4a44",
-    "InternalName" : "ByggRammeBudsjett",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Totalprognose (i mill. NOK)",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "ac612a2c-c5ba-41f1-bb5b-6b14b81de452",
-    "InternalName" : "ByggTotalprognose",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Tilskudd",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "a91a2665-3d5f-4370-a5be-7e33ba03ff61",
-    "InternalName" : "ByggTilskudd",
-    "Format"       : "Dropdown",
-    "Type"         : "Choice",
-    "Default"      : "Ikke aktuelt",
-    "Choices"      : [
-      "Ikke aktuelt",
-      "Dialog med tilskuddsyter opprettet",
-      "Har søkt",
-      "Har fått tilsagn",
-      "Har fått avslag"
-    ]
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Siste politiske vedtak",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "8c957a29-971b-45e6-9ca3-bafd2e33aa88",
-    "InternalName" : "ByggSistePolitiskeVedtak",
-    "Type"         : "DateTime",
-    "Format"       : "DateOnly"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Kommentar, siste politiske vedtak",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "a4d6090e-7a3f-4572-93bb-c9c8564225ed",
-    "InternalName" : "ByggKommentarSistePolitiskeVedtak",
-    "Type"         : "Note"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Usikkerhet i prosjektet",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "cfbd305e-93e0-43d3-b066-cfb37a08fa99",
-    "InternalName" : "ByggUsikkerhet",
-    "Type"         : "Note"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Regnskapsført totalt",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "225cc69b-3c94-409c-8ddf-92ee51d7a8bd",
-    "InternalName" : "ByggRegnskapsfortTotalt",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Regnskapsført i år",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "c88c1f07-5da2-4350-9056-842d3ecb9ab3",
-    "InternalName" : "ByggRegnskapsfortYearToDate",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Budsjett i år",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "9e6afd81-0c9e-4958-8a74-ed8217ac2408",
-    "InternalName" : "ByggBudsjettYearToDate",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Prognose i år",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "57324e3b-0250-4f57-ba89-9d8a3cae0741",
-    "InternalName" : "ByggPrognosisCurrentYear",
-    "Type"         : "Number"
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Forpliktet reserve",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "d5695ca9-e00f-4dd8-9c08-cbd24b113053",
-    "InternalName" : "ByggForpliktetReserve",
-    "Type"         : "Number"
-  },
-  {
-    "InternalName" : "GtStatusPlanBuildCase",
-    "DisplayName"  : "Status plan- og byggesak",
-    "ID"           : "fdf19db2-7f01-4c72-a356-e41294006b77",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "Format"       : "Dropdown",
-    "Type"         : "Choice",
-    "Default"      : "Reguleringsplan annonsert",
-    "Choices"      : [
-        "Reguleringsplan annonsert",
-        "Reguleringsplan 1.gangsbehandlet",
-        "Reguleringsplan godkjent",
-        "Forhåndskonferanse avholdt",
-        "Rammesøknad under utarbeidelse",
-        "Rammesøknad sendt",
-        "Rammetillatelse gitt",
-        "IG sendt",
-        "IG gitt",
-        "Klage under behandling"
-    ]
-  },
-  {
-    "Description"  : "",
-    "DisplayName"  : "Kommentar, status plan- og byggesak",
-    "Group"        : "Bygg og Anlegg Områdekolonner",
-    "ID"           : "89ac5b90-e605-4de6-921c-7a35fa1a144a",
-    "InternalName" : "ByggStatusByggesak",
-    "Type"         : "Note"
-  }
+   {
+      "Description":"",
+      "DisplayName":"Overtakelsesdato",
+      "Format":"DateOnly",
+      "Group":"Glittertind Områdekolonner",
+      "ID":"16623c2a-3fd1-41c2-87e7-958583dd88da",
+      "InternalName":"GtEndDate",
+      "Type":"DateTime"
+   },
+   {
+      "Description":"Beskriv målsetningen med dette bygg/anleggsprosjektet",
+      "DisplayName":"Målsetning",
+      "Group":"Glittertind Områdekolonner",
+      "ID":"018f09b8-4954-41bb-a8f6-fa531b90b79f",
+      "InternalName":"GtProjectGoals",
+      "Type":"Note"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Prosjektnavn i Økonomisystemet",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"983d5ab3-0a6c-4f6a-a7b5-d34d52d73676",
+      "InternalName":"GtBAProjectFinanceName",
+      "Type":"Text"
+   },
+   {
+      "DisplayName":"Investeringsfase",
+      "InternalName":"GtBAProjectInvestementPhase",
+      "Default":"F0",
+      "Description":"",
+      "Format":"Dropdown",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"a9d7045c-3816-48b5-bc8e-fb908b39868a",
+      "Type":"Choice",
+      "Choices":[
+         "F0",
+         "F1",
+         "F2",
+         "F3",
+         "Ikke relevant"
+      ]
+   },
+   {
+      "Description":"",
+      "DisplayName":"Budsjettramme (i mill. NOK)",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"273fd5f5-f04b-4458-8062-2413003c4a44",
+      "InternalName":"GtBAProjectBudgetLimit",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Totalprognose (i mill. NOK)",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"ac612a2c-c5ba-41f1-bb5b-6b14b81de452",
+      "InternalName":"GtBAProjectTotalPrognosis",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Tilskudd",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"a91a2665-3d5f-4370-a5be-7e33ba03ff61",
+      "InternalName":"GtBAProjectSupport",
+      "Format":"Dropdown",
+      "Type":"Choice",
+      "Default":"Ikke aktuelt",
+      "Choices":[
+         "Ikke aktuelt",
+         "Dialog med tilskuddsyter opprettet",
+         "Har søkt",
+         "Har fått tilsagn",
+         "Har fått avslag"
+      ]
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kommentar, tilskudd",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"701d0a81-8d67-4481-afd0-e8fd760f2ffc",
+      "InternalName":"GtBAProjectSupportComment",
+      "Type":"Note"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kvalitet",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"54c61f49-34a7-43ff-8584-faec900b41da",
+      "InternalName":"GtBAProjectQuality",
+      "Type":"Note"
+   },
+   {
+      "Choices":[
+         "Ingen hendelser siste måned",
+         "Hendelse registrert siste måned"
+      ],
+      "Description":"",
+      "DisplayName":"SHA",
+      "FillInChoice":"TRUE",
+      "Format":"RadioButtons",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"c289a709-5921-4539-b224-a34dd0e2478d",
+      "InternalName":"GtBAProjectSHA",
+      "Type":"Choice"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kommentar, SHA",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"bd406db7-b4ed-4023-99dd-419c21dc74b3",
+      "InternalName":"GtBAProjectSHAComment",
+      "Type":"Note"
+   },
+   {
+      "Choices":[
+         "Ingen hendelser siste måned",
+         "Hendelse registrert siste måned"
+      ],
+      "Description":"",
+      "DisplayName":"Miljø",
+      "FillInChoice":"TRUE",
+      "Format":"RadioButtons",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"ddf0ddf0-87ee-4d79-8969-f2368a221fc1",
+      "InternalName":"GtBAProjectEnv",
+      "Type":"Choice"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kommentar, miljø",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"6aab6859-1490-4059-8047-1f6ad55558b8",
+      "InternalName":"GtBAProjectEnvComment",
+      "Type":"Note"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Siste politiske vedtak",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"8c957a29-971b-45e6-9ca3-bafd2e33aa88",
+      "InternalName":"GtBAProjectPolitical",
+      "Type":"DateTime",
+      "Format":"DateOnly"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kommentar, siste politiske vedtak",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"a4d6090e-7a3f-4572-93bb-c9c8564225ed",
+      "InternalName":"GtBAProjectPoliticalComment",
+      "Type":"Note"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Lenke til siste politiske vedtak",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"a45a3fcd-d9a8-422b-81b9-c0745e8133bc",
+      "InternalName":"GtBAProjectPoliticalLink",
+      "Type":"URL",
+      "Format":"Hyperlink"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Usikkerhet i prosjektet",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"cfbd305e-93e0-43d3-b066-cfb37a08fa99",
+      "InternalName":"GtBAProjectUncertainty",
+      "Type":"Note"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Regnskapsført totalt",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"225cc69b-3c94-409c-8ddf-92ee51d7a8bd",
+      "InternalName":"GtBAProjectAccountedTotal",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Regnskapsført i år",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"c88c1f07-5da2-4350-9056-842d3ecb9ab3",
+      "InternalName":"GtBAProjectAccountedThisYear",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Budsjett i år",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"9e6afd81-0c9e-4958-8a74-ed8217ac2408",
+      "InternalName":"GtBAProjectBudgetThisYear",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Prognose i år",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"57324e3b-0250-4f57-ba89-9d8a3cae0741",
+      "InternalName":"GtBAProjectPrognosisThisYear",
+      "Type":"Number"
+   },
+   {
+      "Description":"",
+      "DisplayName":"Forpliktet reserve",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"d5695ca9-e00f-4dd8-9c08-cbd24b113053",
+      "InternalName":"GtBAProjectReserves",
+      "Type":"Number"
+   },
+   {
+      "InternalName":"GtBAProjectStatusCase",
+      "DisplayName":"Status plan- og byggesak",
+      "ID":"fdf19db2-7f01-4c72-a356-e41294006b77",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "Format":"Dropdown",
+      "Type":"Choice",
+      "FillInChoice":"TRUE",
+      "Default":"Reguleringsplan annonsert",
+      "Choices":[
+         "Reguleringsplan annonsert",
+         "Reguleringsplan 1.gangsbehandlet",
+         "Reguleringsplan godkjent",
+         "Forhåndskonferanse avholdt",
+         "Rammesøknad under utarbeidelse",
+         "Rammesøknad sendt",
+         "Rammetillatelse gitt",
+         "IG sendt",
+         "IG gitt",
+         "Klage under behandling"
+      ]
+   },
+   {
+      "Description":"",
+      "DisplayName":"Kommentar, status plan- og byggesak",
+      "Group":"PP Bygg og Anlegg Områdekolonner",
+      "ID":"89ac5b90-e605-4de6-921c-7a35fa1a144a",
+      "InternalName":"GtBAProjectStatusCaseComment",
+      "Type":"Note"
+   }
 ]

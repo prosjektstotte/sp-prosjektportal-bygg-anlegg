@@ -15,7 +15,7 @@
 			"Delete": true
 		},
 		{
-			"Name": "Mine oppgaver"
+			"Name": "Mine oppgaver",
 			"Delete": true
 		},
 		{
