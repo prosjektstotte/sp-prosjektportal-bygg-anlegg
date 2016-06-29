@@ -21,7 +21,7 @@
             "DisplayTemplateLevel": "Item",
             "TemplateHidden": "0",
             "TargetControlType": ";#Content Web Parts;#SearchResults;#",
-            "ManagedPropertyMapping": "'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','ByggSistePolitiskeVedtakOWSDATE','ByggHPFase':'ByggHPFaseOWSCHCS','ByggRammeBudsjett':'ByggRammeBudsjettOWSNMBR','ByggTotalprognose':'ByggTotalprognoseOWSNMBR','ByggTilskudd':'ByggTilskuddOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtStatusPlanBuildCaseOWSCHCS'"
+            "ManagedPropertyMapping": "'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','GtBAProjectPoliticalOWSDATE','InvestementPhase':'GtBAProjectInvestementPhaseOWSCHCS','ByggRammeBudsjett':'GtBAProjectBudgetLimitOWSNMBR','ByggTotalprognose':'GtBAProjectTotalPrognosisOWSNMBR','ByggTilskudd':'GtBAProjectSupportOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtBAProjectStatusCaseOWSCHCS'"
         }
     },
     {

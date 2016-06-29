@@ -5,7 +5,7 @@
     <!--[if gte mso 9]><xml>
     <mso:CustomDocumentProperties>
         <mso:TemplateHidden msdt:dt="string">0</mso:TemplateHidden>
-        <mso:ManagedPropertyMapping msdt:dt="string">'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','ByggSistePolitiskeVedtakOWSDATE','ByggHPFase':'ByggHPFaseOWSCHCS','ByggRammeBudsjett':'ByggRammeBudsjettOWSNMBR','ByggTotalprognose':'ByggTotalprognoseOWSNMBR','ByggTilskudd':'ByggTilskuddOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtStatusPlanBuildCaseOWSCHCS'</mso:ManagedPropertyMapping>
+        <mso:ManagedPropertyMapping msdt:dt="string">'Path','Title','Created','LastModifiedTime','PrognoseDividedByRamme':'RefinableDecimal00','GtBAProjectPoliticalOWSDATE','InvestementPhase':'GtBAProjectInvestementPhaseOWSCHCS','ByggRammeBudsjett':'GtBAProjectBudgetLimitOWSNMBR','ByggTotalprognose':'GtBAProjectTotalPrognosisOWSNMBR','ByggTilskudd':'GtBAProjectSupportOWSCHCS','ProjectManager':'GtProjectManagerOWSUSER','ProjectOwner':'GtProjectOwnerOWSUSER','ProjectPhase':'owstaxIdGtProjectPhase','GtProjectGoalsOWSMTXT','GtStatusTimeOWSCHCS','GtStatusRiskOWSCHCS','GtStatusBudgetOWSCHCS','GtEndDateOWSDATE','GtBAProjectStatusCaseOWSCHCS'</mso:ManagedPropertyMapping>
         <mso:MasterPageDescription msdt:dt="string">Glittertind visningsmal for a vise prosjektdetaljer</mso:MasterPageDescription>
         <mso:ContentTypeId msdt:dt="string">0x0101002039C03B61C64EC4A04F5361F385106603</mso:ContentTypeId>
         <mso:TargetControlType msdt:dt="string">;#SearchResults;#Content Web Parts;#</mso:TargetControlType>
@@ -54,17 +54,17 @@
         var statusRiskCss = window.GT.GetStatusCssClass(statusRisk.value);
         var statusBudgetCss = window.GT.GetStatusCssClass(statusBudget.value);
 
-        var byggHPFase = $getItemValue(ctx, "ByggHPFase");
+        var investementPhase = $getItemValue(ctx, "InvestementPhase");
         var byggRammeBudsjett = parseFloat($getItemValue(ctx, "ByggRammeBudsjett").value) || 0;
         var byggTotalprognose = parseFloat($getItemValue(ctx, "ByggTotalprognose").value) || 0;
         var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
-		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
+		var byggSisteVedtak = $getItemValue(ctx, "GtBAProjectPoliticalOWSDATE");
 		var sluttDatoData = $getItemValue(ctx, "GtEndDateOWSDATE");
         var sluttDato = "Ikke satt";
         if (!sluttDatoData.isEmpty) {
             sluttDato = new Date(sluttDatoData.inputValue).format("dd.MM.yyyy");
         }
-        var statusBuildPlanCase = $getItemValue(ctx, "GtStatusPlanBuildCaseOWSCHCS");
+        var statusBuildPlanCase = $getItemValue(ctx, "GtBAProjectStatusCaseOWSCHCS");
 
 		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
 
@@ -77,7 +77,7 @@
 		} else {
 		   totalPrognoseCss = 'status-green';
 		}
-
+        var prognosisPercent = byggRammeBudsjett!=0 ?(byggTotalprognose/byggRammeBudsjett * 100).toFixed(1).replace(/\./,',') : 0;
         _#-->
         <td>
             <a href="_#= url =#_">
@@ -85,10 +85,10 @@
             </a>
         </td>
 		<td class="_#= statusRiskCss =#_">_#= statusRisk =#_</td>
-		<td>_#= byggHPFase =#_</td>
+		<td>_#= investementPhase =#_</td>
 		<td>_#= byggRammeBudsjett =#_</td>
 		<td>_#= byggTotalprognose =#_</td>
-		<td class="_#= totalPrognoseCss =#_">_#=  byggRammeBudsjett!=0 ?(byggTotalprognose/byggRammeBudsjett * 100).toFixed(1).replace(/\./,',') : 0 =#_ %</td>
+		<td class="_#= totalPrognoseCss =#_">_#= prognosisPercent =#_ %</td>
 		<td>_#= sluttDato =#_</td>
         <td class="_#= statusTimeCss =#_">_#= statusTime =#_</td>
         <td>_#= byggTilskudd =#_</td>

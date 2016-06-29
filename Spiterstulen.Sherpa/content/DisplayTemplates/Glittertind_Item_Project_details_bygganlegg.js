@@ -11,7 +11,7 @@ function DisplayTemplate_16f5b3d974c44a6bb5e15a3f311e5a21(ctx) {
   ctx['DisplayTemplateData']['TargetControlType']=['SearchResults', 'Content Web Parts'];
   this.DisplayTemplateData = ctx['DisplayTemplateData'];
 
-  ctx['DisplayTemplateData']['ManagedPropertyMapping']={'PrognoseDividedByRamme':['RefinableDecimal00'], 'ByggSistePolitiskeVedtakOWSDATE':null, 'ByggHPFase':['ByggHPFaseOWSCHCS'], 'ByggRammeBudsjett':['ByggRammeBudsjettOWSNMBR'], 'ByggTotalprognose':['ByggTotalprognoseOWSNMBR'], 'ByggTilskudd':['ByggTilskuddOWSCHCS'], 'Path':null, 'Title':null, 'ProjectManager':['GtProjectManagerOWSUSER'], 'ProjectOwner':['GtProjectOwnerOWSUSER'], 'ProjectPhase':['owstaxIdGtProjectPhase'], 'Created':null, 'GtProjectGoalsOWSMTXT':null, 'GtStatusTimeOWSCHCS':null, 'GtStatusRiskOWSCHCS':null, 'GtStatusBudgetOWSCHCS':null, 'LastModifiedTime':null, 'GtEndDateOWSDATE':null, 'GtStatusPlanBuildCaseOWSCHCS':null};
+  ctx['DisplayTemplateData']['ManagedPropertyMapping']={'PrognoseDividedByRamme':['RefinableDecimal00'], 'GtBAProjectPoliticalOWSDATE':null, 'InvestementPhase':['GtBAProjectInvestementPhaseOWSCHCS'], 'ByggRammeBudsjett':['GtBAProjectBudgetLimitOWSNMBR'], 'ByggTotalprognose':['GtBAProjectTotalPrognosisOWSNMBR'], 'ByggTilskudd':['GtBAProjectSupportOWSCHCS'], 'Path':null, 'Title':null, 'ProjectManager':['GtProjectManagerOWSUSER'], 'ProjectOwner':['GtProjectOwnerOWSUSER'], 'ProjectPhase':['owstaxIdGtProjectPhase'], 'Created':null, 'GtProjectGoalsOWSMTXT':null, 'GtStatusTimeOWSCHCS':null, 'GtStatusRiskOWSCHCS':null, 'GtStatusBudgetOWSCHCS':null, 'LastModifiedTime':null, 'GtEndDateOWSDATE':null, 'GtBAProjectStatusCaseOWSCHCS':null};
   var cachePreviousItemValuesFunction = ctx['ItemValues'];
   ctx['ItemValues'] = function(slotOrPropName) {
     return Srch.ValueInfo.getCachedCtxItemValue(ctx, slotOrPropName)
@@ -37,11 +37,11 @@ ms_outHtml.push('',''
         var statusRiskCss = window.GT.GetStatusCssClass(statusRisk.value);
         var statusBudgetCss = window.GT.GetStatusCssClass(statusBudget.value);
 
-        var byggHPFase = $getItemValue(ctx, "ByggHPFase");
+        var investementPhase = $getItemValue(ctx, "InvestementPhase");
         var byggRammeBudsjett = parseFloat($getItemValue(ctx, "ByggRammeBudsjett").value) || 0;
         var byggTotalprognose = parseFloat($getItemValue(ctx, "ByggTotalprognose").value) || 0;
         var byggTilskudd = $getItemValue(ctx, "ByggTilskudd");
-		var byggSisteVedtak = $getItemValue(ctx, "ByggSistePolitiskeVedtakOWSDATE");
+		var byggSisteVedtak = $getItemValue(ctx, "GtBAProjectPoliticalOWSDATE");
         var sluttDatoData = $getItemValue(ctx, "GtEndDateOWSDATE");
         var sluttDato = "Ikke satt";
         if (!sluttDatoData.isEmpty) {
@@ -61,6 +61,7 @@ ms_outHtml.push('',''
 		} else {
 		   totalPrognoseCss = 'status-green';
 		}
+        var prognosisPercent = byggRammeBudsjett!=0 ?(byggTotalprognose/byggRammeBudsjett * 100).toFixed(1).replace(/\./,',') : 0;
 
         ms_outHtml.push(''
 ,'        <td>'
@@ -69,10 +70,10 @@ ms_outHtml.push('',''
 ,'            </a>'
 ,'        </td>'
 ,'		<td class="', statusRiskCss ,'">', statusRisk ,'</td>'
-,'		<td>', byggHPFase ,'</td>'
+,'		<td>', investementPhase ,'</td>'
 ,'		<td>', byggRammeBudsjett ,'</td>'
 ,'		<td>', byggTotalprognose ,'</td>       '
-,'		<td class="', totalPrognoseCss ,'">',  byggRammeBudsjett!=0 ?(byggTotalprognose/byggRammeBudsjett * 100).toFixed(1).replace(/\./,',') : 0 ,' %</td>'
+,'		<td class="', totalPrognoseCss ,'">',  prognosisPercent,' %</td>'
 ,'		<td>', sluttDato ,'</td>'
 ,'        <td class="', statusTimeCss ,'">', statusTime ,'</td>'
 ,'        <td>', byggTilskudd ,'</td>'
