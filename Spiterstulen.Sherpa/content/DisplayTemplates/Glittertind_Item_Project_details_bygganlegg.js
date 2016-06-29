@@ -48,7 +48,7 @@ ms_outHtml.push('',''
             sluttDato = new Date(sluttDatoData.inputValue).format("dd.MM.yyyy");
         }
 
-        var statusBuildPlanCase = $getItemValue(ctx, "GtStatusPlanBuildCaseOWSCHCS");
+        var statusBuildPlanCase = $getItemValue(ctx, "GtBAProjectStatusCaseOWSCHCS");
 
 		var prognoseDividedByRamme = $getItemValue(ctx, "PrognoseDividedByRamme");
 
