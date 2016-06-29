@@ -1,3 +1,4 @@
+<!-- This page needs to be modified with correct urls -->
 <style type="text/css">
     #newProjectLink {
         display: none;
@@ -7,8 +8,8 @@
 <div id="newProjectLink">
     <h2 style="text-align:justify;" class="ms-webpart-titleText">Nytt prosjektområde</h2>
     <a href="OpprettProsjekt.aspx">Opprett prosjektområde</a><br/>
-    <a href="/sites/ppanlegg-demo/SitePages/OpprettProsjekt.aspx">Opprett <strong>anlegg</strong>sprosjektområde</a><br/>
-    <a href="/sites/ppbygg-demo/SitePages/OpprettProsjekt.aspx">Opprett <strong>bygg</strong>prosjektområde</a><br/>
+    <a href="/sites/url-to-anlegg/SitePages/OpprettProsjekt.aspx">Opprett <strong>anlegg</strong>sprosjektområde</a><br/>
+    <a href="/sites/url-to-bygg/SitePages/OpprettProsjekt.aspx">Opprett <strong>bygg</strong>prosjektområde</a><br/>
 </div>
 
 <script type="text/javascript">
