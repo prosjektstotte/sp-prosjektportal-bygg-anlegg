@@ -12,8 +12,20 @@
         "Title": "Interessentregister"
     },
     {
+        "Url": "Lists/Kommunikasjonsplan",
+        "Title": "Kommunikasjonsplan"
+    },
+    {
+        "Url": "Lists/Usikkerhet",
+        "Title": "Usikkerhet"
+    },
+    {
         "Url": "Lists/Oppgaver",
         "Title": "Oppgaver"
+    },
+    {
+        "Url": "SitePages/Motereferat.aspx",
+        "Title": "Møtereferat"
     },
     {
         "Url": "Lists/Motekalender",
@@ -36,10 +48,6 @@
         "Title": "Forside alle faser"
     },
     {
-        "Url": "SitePages/Tilordnet.aspx",
-        "Title": "Mine prosjektelementer"
-    },
-    {
         "Url": "{SiteUrl}/SitePages/Forms/DispForm.aspx?ID=3&EditMode=ProjectInfo",
         "Title": "Prosjektinfo",
 		"IsExternal":true
@@ -47,5 +55,13 @@
     {
         "Url": "_layouts/15/viewlsts.aspx",
 		"Title": "Områdeinnhold"
+    },
+    {
+        "Url": "{SiteUrl}/_layouts/15/osssearchresults.aspx?u={SiteUrlEncoded}&k=owstaxIdGtProjectPhase%3A%22Ingen%20fase%22",
+        "Title": "Prosjektelementer uten fase"
+    },
+    {
+        "Url": "SitePages/Tilordnet.aspx",
+        "Title": "Mine prosjektelementer"
     }
 ]
