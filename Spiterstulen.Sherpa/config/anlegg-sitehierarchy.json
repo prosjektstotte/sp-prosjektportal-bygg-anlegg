@@ -9,6 +9,11 @@
     "ContentTypeConfigurations": [
         "bygganlegg-contenttypes.json"
     ],
+   "ImportDataConfigurations":[
+      "anlegg/fasesjekkliste.data.json",
+      "anlegg/oppgaver.data.json",
+      "interessenter.data.json"
+   ],
     "RootWeb": {
         "Description": "",
         "Language": "1044",

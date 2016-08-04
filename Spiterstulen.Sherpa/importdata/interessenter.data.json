@@ -1,5 +1,6 @@
 {
   "Name": "Interessentregister",
+  "Type": "GenericList",
   "Data": {
     "Rows": [
       {

@@ -1,5 +1,6 @@
 {
    "Name":"Fasesjekkliste",
+   "Type":"GenericList",
    "Data":{
       "Rows":[
          {
