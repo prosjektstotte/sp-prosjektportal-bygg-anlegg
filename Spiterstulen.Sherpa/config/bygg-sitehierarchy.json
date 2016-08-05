@@ -12,7 +12,8 @@
    "ImportDataConfigurations":[
       "bygg/fasesjekkliste.data.json",
       "bygg/oppgaver.data.json",
-      "interessenter.data.json"
+      "interessenter.data.json",
+      "lenker.data.json"
    ],
     "RootWeb": {
         "Description": "",
