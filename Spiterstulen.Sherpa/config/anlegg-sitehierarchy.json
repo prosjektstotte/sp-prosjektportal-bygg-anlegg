@@ -9,12 +9,12 @@
     "ContentTypeConfigurations": [
         "bygganlegg-contenttypes.json"
     ],
-   "ImportDataConfigurations":[
-      "anlegg/fasesjekkliste.data.json",
-      "anlegg/oppgaver.data.json",
-      "interessenter.data.json",
-      "lenker.data.json"
-   ],
+    "ImportDataConfigurations": [
+        "anlegg/fasesjekkliste.data.json",
+        "anlegg/oppgaver.data.json",
+        "interessenter.data.json",
+        "lenker.data.json"
+    ],
     "RootWeb": {
         "Description": "",
         "Language": "1044",
@@ -22,7 +22,7 @@
         "Lists": [],
         "ContentFolders": [
             {
-                "FolderName": "DisplayTemplates",
+                "FolderName": "DisplayTemplatesByggAnlegg",
                 "ListUrl": "_catalogs/masterpage",
                 "FolderUrl": "Display Templates/Search",
                 "PropertiesFile": "properties.json",
@@ -33,14 +33,14 @@
                 "ListName": "Standarddokumenter",
                 "FolderUrl": "",
                 "PropertiesFile": "properties.json",
-                "ExcludeExtensions":".xml,.placeholder"
+                "ExcludeExtensions": ".xml,.placeholder"
             },
             {
                 "FolderName": "DefaultDocumentsAnlegg",
                 "ListName": "Standarddokumenter",
                 "FolderUrl": "",
                 "PropertiesFile": "properties.json",
-                "ExcludeExtensions":".xml,.placeholder"
+                "ExcludeExtensions": ".xml,.placeholder"
             },
             {
                 "FolderName": "SiteAssetsByggAnlegg",
@@ -53,20 +53,20 @@
                 "FolderUrl": "gt"
             }
         ],
-        "Properties":{
-            "projectportal_variant":"anlegg"
+        "Properties": {
+            "projectportal_variant": "anlegg"
         },
         "Quicklaunch": {
-            "Hjem":"",
-            "Porteføljeoversikt":"SitePages/PortefoljeOversikt.aspx",
-            "Porteføljeoppfølging":"SitePages/PortefoljeOppfolging.aspx",
-            "Erfaringslogg":"SitePages/Erfaringslogg.aspx",
-            "Standarddokumenter":"Standarddokumenter",
-            "Områdeinnhold":"_layouts/15/viewlsts.aspx"
+            "Hjem": "",
+            "Porteføljeoversikt": "SitePages/PortefoljeOversikt.aspx",
+            "Porteføljeoppfølging": "SitePages/PortefoljeOppfolging.aspx",
+            "Erfaringslogg": "SitePages/Erfaringslogg.aspx",
+            "Standarddokumenter": "Standarddokumenter",
+            "Områdeinnhold": "_layouts/15/viewlsts.aspx"
         },
         "Template": "",
         "Url": "/",
         "WebFeatures": [],
-        "Webs": [ ]
+        "Webs": []
     }
 }

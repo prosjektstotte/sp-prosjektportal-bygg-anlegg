@@ -10,7 +10,7 @@
         },
         "ContentFolders": [
             {
-                "FolderName": "DisplayTemplates",
+                "FolderName": "DisplayTemplatesByggAnlegg",
                 "ListUrl": "_catalogs/masterpage",
                 "FolderUrl": "Display Templates/Search",
                 "PropertiesFile": "properties.json",
