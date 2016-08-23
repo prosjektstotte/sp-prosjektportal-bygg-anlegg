@@ -39,14 +39,14 @@ Etter at operasjonene er gjennomført skal prosjektportalen for bygg eller anleg
 
 ## Eksempel på installasjon i Vestøst kommune
 
-Gudrun i Vestøst kommune skal installere prosjektportalen for bygg-prosjekter. Vestøst kommune har Office 365, og Gudrun er global admin og er termstore administrator. URL til Vestøst kommune sin Office 365 tenant er https://vestost.sharepoint.com og Gudruns brukernavn for å logge inn på tenanten er gudrun@vestost.no. Gudrun gjør følgende
+Nina i Vestøst kommune skal installere prosjektportalen for bygg-prosjekter. Vestøst kommune har Office 365, og Nina er global admin og er termstore administrator. URL til Vestøst kommune sin Office 365 tenant er https://vestost.sharepoint.com og Ninas brukernavn for å logge inn på tenanten er nina@vestost.no. Nina gjør følgende
 
-1. Gudrun oppretter områdesamlingen https://vestost.sharepoint.com/sites/prosjektportalen-bygg
-2. Gudrun har pakket ut installasjonspakken til C:\pp-bygg-anlegg\ og navigerer dit med kommandolinjen
-3. Gudrun skriver i cmd: .\sherpa.exe --url https://vestost.sharepoint.com/sites/prosjektportalen-bygg --userName gudrun@vestost.no --spo --conf full-bygg-sitehierarchy.json
-4. Gudrun skriver inn passord og får ingen feilmeldinger. Hun er klar til å installere.
-5. Gudrun velger operasjon 1. Deretter operasjon 2. Deretter 3, 4, 5 og 8, i den rekkefølgen.
-6. Gudrun navigerer til https://vestost.sharepoint.com/sites/prosjektportalen-bygg og ser at Prosjektportalen for byggprosjekter er ferdig installert.
+1. Hun oppretter områdesamlingen https://vestost.sharepoint.com/sites/prosjektportalen-bygg
+2. Hun har pakket ut installasjonspakken til C:\pp-bygg-anlegg\ og navigerer dit med kommandolinjen
+3. Hun skriver i cmd: .\sherpa.exe --url https://vestost.sharepoint.com/sites/prosjektportalen-bygg --userName nina@vestost.no --spo --conf full-bygg-sitehierarchy.json
+4. Hun skriver inn passord og får ingen feilmeldinger. Hun er klar til å installere.
+5. Hun velger operasjon 1. Deretter operasjon 2. Deretter 3, 4, 5 og 8, i den rekkefølgen.
+6. Hun navigerer til https://vestost.sharepoint.com/sites/prosjektportalen-bygg og ser at Prosjektportalen for byggprosjekter er ferdig installert.
 
 # Kontakt
 For spørsmål og innspill, ta kontakt med Asker Kommune ved <a href="mailto:Geir.Graff@asker.kommune.no">Geir Graff</a>. For bistand til installasjon av løsningen eller muligheter for videreutvikling og spesialtilpasninger, ta kontakt med <a href="mailto:support@puzzlepart.com">Puzzlepart</a> eller <a href="mailto:tormod.guldvog@puzzlepart.com">Tormod Guldvog</a>. Vi gjør oppmerksom på at eventuell bistand vil være en fakturerbar tjeneste.
