@@ -1,4 +1,6 @@
-Prosjektportalen for bygg- og anleggsprosjekter er utviklet for Asker kommune. En installerbar pakke forventes å kunne lastes ned fra denne siden medio August 2016.
+Oppdatering 2016-08-23: Vi prøver å få på plass noen flere funksjoner i prosjektportalen. Vi ønsker derfor å skyve releasen noen få uker (til September).
+
+Prosjektportalen for bygg- og anleggsprosjekter er utviklet for Asker kommune. En installerbar pakke forventes å kunne lastes ned fra denne siden September 2016.
 
 ﻿Prosjektportal for SharePoint
 =================
