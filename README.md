@@ -30,8 +30,8 @@ Dersom du skal installere for anlegg, bruk konfigurasjonsfilen full-anlegg-siteh
 1. En områdesamling må opprettes for prosjektportalen. Vi anbefaler ikke at prosjektportalen installeres i en områdesamling som brukes til noe annet fra før. Vi anbefaler at områdesamlingen opprettes med norsk språk (selve SharePoint-installasjonen trenger ikke være norsk) og malen 'gruppeområde' ('team site').
 2. (Foreløpig) Pakken er distribuert til noen få kunder og interesserte for pilotering.
 3. Pakk ut installasjonspakken, og naviger til mappen via kommandolinjen.
-4A. Dersom du skal installere til SharePoint Online: På kommandolinjen, skriv sherpa.exe --url "URL til nyopprettet områdesamling" --userName "brukernavn til administrator" --spo --conf "Navn på konfigurasjonsfil (se over)"
-4B. Dersom du skal installere til SharePoint 2013 On-Premises og skal logge inn som allerede innlogget bruker: På kommandolinjen, skriv sherpa.exe --url "URL til nyopprettet områdesamling" --conf "Navn på konfigurasjonsfil (se over)"
+4. Dersom du skal installere til SharePoint Online: På kommandolinjen, skriv sherpa.exe --url "URL til nyopprettet områdesamling" --userName "brukernavn til administrator" --spo --conf "Navn på konfigurasjonsfil (se over)"
+4. Dersom du skal installere til SharePoint 2013 On-Premises og skal logge inn som allerede innlogget bruker: På kommandolinjen, skriv sherpa.exe --url "URL til nyopprettet områdesamling" --conf "Navn på konfigurasjonsfil (se over)"
 5. Applikasjonen starter. Dersom du skal installere til SharePoint Online må du skrive passord.
 6. Kjør gjennom operasjonene i applikasjonen 1, 2, 3, 4, 5 og 8 i rekkefølge. Hvert steg må gå gjennom uten feil for at installasjonen skal blir vellykket. Dersom du opplever feil kan du se seksjonen Feilsøking på siden for <a href="https://github.com/prosjektstotte/sp-prosjektportal">Prosjektportalen</a>.
 Etter at operasjonene er gjennomført skal prosjektportalen for bygg eller anlegg være oppe og kjøre.
@@ -39,7 +39,7 @@ Etter at operasjonene er gjennomført skal prosjektportalen for bygg eller anleg
 
 ## Eksempel på installasjon i Vestøst kommune
 
-Gudrun i Vestøst kommune skal installere prosjektportalen for bygg-prosjekter. Vestøst kommune har Office 365, og Gudrun er global admin og er termstore administrator. URL til Vestøst kommune sin Office 365 tenant er https://vestost.sharepoint.com. Gudrun gjør som følger
+Gudrun i Vestøst kommune skal installere prosjektportalen for bygg-prosjekter. Vestøst kommune har Office 365, og Gudrun er global admin og er termstore administrator. URL til Vestøst kommune sin Office 365 tenant er https://vestost.sharepoint.com og Gudruns brukernavn for å logge inn på tenanten er gudrun@vestost.no. Gudrun gjør følgende
 
 1. Gudrun oppretter områdesamlingen https://vestost.sharepoint.com/sites/prosjektportalen-bygg
 2. Gudrun har pakket ut installasjonspakken til C:\pp-bygg-anlegg\ og navigerer dit med kommandolinjen
