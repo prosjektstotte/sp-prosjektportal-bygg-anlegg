@@ -13,17 +13,31 @@
                         "Name": "GtProjectPhase",
                         "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
                     }
-                ]
-            },
-            {
-                "Fields": [
+                ],
+                "Rows": [
                     {
-                        "Name": "Title",
-                        "Value": "Ev. oppdatert informasjon til naboer og grunneiere"
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Sørge for signert oppdragsbestilling"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                            }
+                        ]
                     },
                     {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Avklare økonomiske rammer/erfaringstall"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                            }
+                        ]
                     }
                 ]
             },
@@ -31,715 +45,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Ev. oppdatert Interessentanalyse "
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Korrespondanse"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Stikningsdata"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Arbeidstegninger"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Miljøplan- anleggsprosjekter (Utarbeides i prosjekteringsfasen; videreutvikles og følges opp i gjennomføringsfasen)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "SHA- plan med vedlegg (oppdatert)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Fremdriftsplan (oppdatert)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Organisasjonsplan/ prosjektplaner "
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Forhåndsmelding til arbeidstilsynet"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i anleggsfasen"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Definere organisasjon og roller"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Avholde oppstartsmøte"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Sende søknad om igangsettelse (IG)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Budsjett"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Utfylt egenrapporteringsskjema for lønns og arbeidsvilkår"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Signert kontrakt(er) "
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Meddelelse til tilbydere"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Protokoll fra tilbudsbefaring"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Ev. oppdatert budsjett"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Åpningsprotokoll"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "FDV-/ sluttdokumentasjon"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Ferdigbefaring"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Søknad om forhåndsgodkjenning av spillemidler"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Utføre sidemannskontroll av oppdragsbeskrivelse"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Forvaltning, drift og vedlikehold"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Realisere|2f757e1c-7e2b-4be6-9eba-ecafe37531b6"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Garantiperiode"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Realisere|2f757e1c-7e2b-4be6-9eba-ecafe37531b6"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Sluttregnskap og ferdigattest som grunnlag for søknad om sluttutbetaling av spillemidlene."
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Sluttrapport med sluttregnskap"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Ferdigstilt FDV-/ sluttdokumentasjon"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Signert Overleveringsprotokoll"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Referat fra møte om økonomisk sluttoppgjør"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Evalueringsrapporter"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Signert Overtakelsesprotokoll"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Referat fra ferdigbefaring"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i overleveringsfasen"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Ferdigmelding"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Økonomisk avslutning"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Utarbeide FDV dokumentasjon"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Overlevering (fra prosjekt til oppdragsgiver)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Overtakelse (fra entreprenør til prosjekt)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Prøvedrift"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Forbefaring"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Kontroll av mengdebeskrivelse og anbudsdokumenter"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Anskaffelsesprotokoll over 500.000 kr. (med evalueringsrapport)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Dokumenter som skal produseres i kontraheringsfasen"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Fremme politisk sak"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Gjennomføre ekstern ROS analyse (for prosjekt over 10 mill)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Utarbeide komplett kalkyle"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Søknad på rammetillatelse skal utformes og sendes Plan og bygg for godkjenning"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Ferdigstille anbudstegninegr og kravspesifikasjon"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Gjennomføre detaljprosjekt"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Etablere SHA- Plan for prosjekteringsfasen"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Dialog med interessenter"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Gjennomføre Risikoanalyse (intern)"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Gjennomføre miljøgjennomgang og evt skrive miljøplan"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Foreløpig kalkyle"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Vurdere behov for forhåndskonferanse eller rammesøknad"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Gjennomføre forprosjekt"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Etablere prosjektorganisasjon"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Kontrahere konsulenter"
+                        "Value": "Innhente tilgjengelig grunnlagsinformasjon"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -763,7 +69,33 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Innhente tilgjengelig grunnlagsinformasjon"
+                        "Value": "Kontrahere konsulenter"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Utføre sidemannskontroll av oppdragsbeskrivelse"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere prosjektorganisasjon"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -775,11 +107,61 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Avklare økonomiske rammer/erfaringstall"
+                        "Value": "Gjennomføre forprosjekt"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Vurdere behov for forhåndskonferanse eller rammesøknad"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Foreløpig kalkyle"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Gjennomføre miljøgjennomgang og evt skrive miljøplan"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Gjennomføre Risikoanalyse (intern)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     }
                 ]
             },
@@ -787,11 +169,97 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Sørge for signert oppdragsbestilling"
+                        "Value": "Dialog med interessenter"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Konsept|dca0a226-0907-4c54-8624-6b51fcac7a92"
+                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Etablere SHA- Plan for prosjekteringsfasen"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Gjennomføre detaljprosjekt"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Ferdigstille anbudstegninegr og kravspesifikasjon"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Søknad på rammetillatelse skal utformes og sendes Plan og bygg for godkjenning"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Utarbeide komplett kalkyle"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Gjennomføre ekstern ROS analyse (for prosjekt over 10 mill)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Fremme politisk sak"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     }
                 ]
             },
@@ -805,17 +273,211 @@
                         "Name": "GtProjectPhase",
                         "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
                     }
-                ]
-            },
-            {
-                "Fields": [
+                ],
+                "Rows": [
                     {
-                        "Name": "Title",
-                        "Value": "Konkurransegrunnlag- anlegg"
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Organisasjonsplan/ prosjektplaner"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     },
                     {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Plandokumenter"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Endring av oppdragsbeskrivelsen"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Innsendt søknad på byggetillatelse (Rammesøknad eller 1. trinns søknad)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "SHA- plan (med vedlegg)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Sjekkliste SHA-koordinator Prosjektering (KP)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Risikovurdering prosjekt (Excel- skjema)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Komplett Kalkyle"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Forprosjektrapport"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Søknad om forhåndsgodkjenning av spillemidler"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Politisk saksfremlegg"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Interessentanalyse"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Avtaler med kabelselskapene"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Signert grunneieravtaler "
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Naboinformasjon (sendt ut)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Grunnlag for utlysning av konkurranse (i Doffin)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "(Foreløpig) fremdriftsplan"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     }
                 ]
             },
@@ -823,11 +485,37 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Organisasjonsplan/ prosjektplaner"
+                        "Value": "Utarbeide konkurransegrunnlag inkl. kravspesifikasjon og anbudstegninger"
                     },
                     {
                         "Name": "GtProjectPhase",
                         "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Utføre sidemannskontroll av konkurransegrunnlaget"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Kontroll av mengdebeskrivelse og anbudsdokumenter"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     }
                 ]
             },
@@ -835,31 +523,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Endring av oppdragsbeskrivelsen"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Utforme og signere avtaledokument"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Avholde kontraktsmøte"
+                        "Value": "Utlyse konkurranse(r)"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -883,7 +547,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Utlyse konkurranse(r)"
+                        "Value": "Avholde kontraktsmøte"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -895,7 +559,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Utføre sidemannskontroll av konkurransegrunnlaget"
+                        "Value": "Utforme og signere avtaledokument"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -907,11 +571,121 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Utarbeide konkurransegrunnlag inkl. kravspesifikasjon og anbudstegninger"
+                        "Value": "Dokumenter som skal produseres i kontraheringsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
                         "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Konkurransegrunnlag- anlegg"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Anskaffelsesprotokoll over 500.000 kr. (med evalueringsrapport)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Åpningsprotokoll"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Protokoll fra tilbudsbefaring"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Avtale om SHA- koordinering utførelse (KU)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Meddelelse til tilbydere"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Signert kontrakt(er) "
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Utfylt egenrapporteringsskjema for lønns og arbeidsvilkår"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Budsjett"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                            }
+                        ]
                     }
                 ]
             },
@@ -919,11 +693,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "(Foreløpig) fremdriftsplan"
+                        "Value": "Sende søknad om igangsettelse (IG)"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
                     }
                 ]
             },
@@ -931,11 +705,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Grunnlag for utlysning av konkurranse (i Doffin)"
+                        "Value": "Avholde oppstartsmøte"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
                     }
                 ]
             },
@@ -943,11 +717,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Naboinformasjon (sendt ut)"
+                        "Value": "Definere organisasjon og roller"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
                     }
                 ]
             },
@@ -955,11 +729,157 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Signert grunneieravtaler "
+                        "Value": "Dokumenter som skal produseres i anleggsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Forhåndsmelding til arbeidstilsynet"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Organisasjonsplan/ prosjektplaner "
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Fremdriftsplan (oppdatert)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "SHA- plan med vedlegg (oppdatert)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Miljøplan- anleggsprosjekter (Utarbeides i prosjekteringsfasen; videreutvikles og følges opp i gjennomføringsfasen)"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Arbeidstegninger"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Stikningsdata"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Korrespondanse"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Ev. oppdatert Interessentanalyse "
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Ev. oppdatert informasjon til naboer og grunneiere"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Ev. oppdatert budsjett"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "FDV-/ sluttdokumentasjon"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Gjennomføre|9b45a1ca-ae8c-4f4a-baa3-40353b7dd8fc"
+                            }
+                        ]
                     }
                 ]
             },
@@ -967,11 +887,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Avtaler med kabelselskapene"
+                        "Value": "Forbefaring"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -979,11 +899,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Interessentanalyse"
+                        "Value": "Ferdigbefaring"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -991,11 +911,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Politisk saksfremlegg"
+                        "Value": "Prøvedrift"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1003,11 +923,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Forprosjektrapport"
+                        "Value": "Overtakelse (fra entreprenør til prosjekt)"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1015,11 +935,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Komplett Kalkyle"
+                        "Value": "Overlevering (fra prosjekt til oppdragsgiver)"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1027,11 +947,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Risikovurdering prosjekt (Excel- skjema)"
+                        "Value": "Utarbeide FDV dokumentasjon"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1039,11 +959,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Sjekkliste SHA-koordinator Prosjektering (KP)"
+                        "Value": "Økonomisk avslutning"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1051,11 +971,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "SHA- plan (med vedlegg)"
+                        "Value": "Ferdigmelding"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
                     }
                 ]
             },
@@ -1063,11 +983,109 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Innsendt søknad på byggetillatelse (Rammesøknad eller 1. trinns søknad)"
+                        "Value": "Dokumenter som skal produseres i overleveringsfasen"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                    }
+                ],
+                "Rows": [
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Referat fra ferdigbefaring"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Signert Overtakelsesprotokoll"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Evalueringsrapporter"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Referat fra møte om økonomisk sluttoppgjør"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Signert Overleveringsprotokoll"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Ferdigstilt FDV-/ sluttdokumentasjon"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Sluttrapport med sluttregnskap"
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
+                    },
+                    {
+                        "Fields": [
+                            {
+                                "Name": "Title",
+                                "Value": "Sluttregnskap og ferdigattest som grunnlag for søknad om sluttutbetaling av spillemidlene."
+                            },
+                            {
+                                "Name": "GtProjectPhase",
+                                "Value": "Avslutte|1807d6c2-b4bd-415f-98aa-a4a2ccff8d11"
+                            }
+                        ]
                     }
                 ]
             },
@@ -1075,11 +1093,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Plandokumenter"
+                        "Value": "Garantiperiode"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Realisere|2f757e1c-7e2b-4be6-9eba-ecafe37531b6"
                     }
                 ]
             },
@@ -1087,11 +1105,11 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Avtale om SHA- koordinering utførelse (KU)"
+                        "Value": "Forvaltning, drift og vedlikehold"
                     },
                     {
                         "Name": "GtProjectPhase",
-                        "Value": "Planlegge|1c286a0e-da40-451a-bab2-9e0583392ee3"
+                        "Value": "Realisere|2f757e1c-7e2b-4be6-9eba-ecafe37531b6"
                     }
                 ]
             }
