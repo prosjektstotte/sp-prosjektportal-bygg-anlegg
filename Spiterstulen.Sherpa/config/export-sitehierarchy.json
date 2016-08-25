@@ -17,6 +17,7 @@
                 "Lists": [
                     {
                         "Title": "Oppgaver",
+                        "TemplateType": 171,
                         "Description": "",
                         "Url": "Lists/Oppgaver",
                         "ExportData":"true"
