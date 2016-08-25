@@ -7,7 +7,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er brukerrepresentanter konsulter/involvert?"
+                        "Value": "Er brukerrepresentanter konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -19,7 +19,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er EDF konsulter/involvert?"
+                        "Value": "Er EDF konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -31,7 +31,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Natur og Idrett konsulter/involvert?"
+                        "Value": "Er Natur og Idrett konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -43,7 +43,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Renhold konsulter/involvert?"
+                        "Value": "Er Renhold konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -55,7 +55,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Hovedverneombud konsulter/involvert?"
+                        "Value": "Er Hovedverneombud konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -67,7 +67,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er AMU eller tillitsvalgt konsulter/involvert?"
+                        "Value": "Er AMU eller tillitsvalgt konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -91,7 +91,19 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er KTA konsulter/involvert"
+                        "Value": "Er kommuneoverlegen og/eller Miljørettet helsevern konsultert/involvert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Konsept|35997358-534f-475b-be9f-2544a3b80c8d"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er KTA konsultert/involvert"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -127,7 +139,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er alle arkivverdige dokumenter lagret i ESA?"
+                        "Value": "Er alle arkivverdige dokumenter lagret i arkivsystemet?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -175,7 +187,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er brukerrepresentanter konsulter/involvert?"
+                        "Value": "Er brukerrepresentanter konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -187,7 +199,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er EDF konsulter/involvert?"
+                        "Value": "Er EDF konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -199,7 +211,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Natur og Idrett konsulter/involvert?"
+                        "Value": "Er Natur og Idrett konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -211,7 +223,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Renhold konsulter/involvert?"
+                        "Value": "Er Renhold konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -223,7 +235,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er Hovedverneombud konsulter/involvert?"
+                        "Value": "Er Hovedverneombud konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -235,7 +247,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er AMU eller tillitsvalgt konsulter/involvert?"
+                        "Value": "Er AMU eller tillitsvalgt konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -259,7 +271,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er prosjektleder med vei/anleggs- kompetanse konsultert/involvert?"
+                        "Value": "Er prosjektleder med vei/anleggs-kompetanse konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -283,7 +295,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er IKT avdelingen konsultert/involvert?"
+                        "Value": "Er IKT-avdelingen konsultert/involvert?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -295,7 +307,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er forprosjektrapport skrevet?"
+                        "Value": "Er mva. fordelingsnøkkel lagt inn i Agresso?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -307,7 +319,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er detaljprosjektrapport skrevet?"
+                        "Value": "Er det skrevet avtale om SHA- koordinering prosjektering (KP)?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -319,7 +331,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er alle arkivverdige dokumenter lagret i ESA?"
+                        "Value": "Er det skrevet avtale om SHA- koordinering utførelse (KU)?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -331,7 +343,55 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er opsjoner for service og vedlikehold av bygget inkludert i anbudsdokumentasjonen?"
+                        "Value": "Er søknad om rammetillatelse godkjent?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1692b4b4-bfce-4614-91b9-767d1bbb0c6b"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er konkurransegrunnlaget kvalitetssikret?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1692b4b4-bfce-4614-91b9-767d1bbb0c6b"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det mottatt utfylte egenrapporteringsskjema for lønns- og arbeidsvilkår?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1692b4b4-bfce-4614-91b9-767d1bbb0c6b"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle arkivverdige dokumenter lagret i arkivsystemet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Planlegge|1692b4b4-bfce-4614-91b9-767d1bbb0c6b"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det sendt forhåndsmelding til arbeidstilsynet?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -343,7 +403,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er opsjoner for service og vedlikehold av grøntarealer inkludert i anbudsdokumentasjonen?"
+                        "Value": "Er tiltak fra interessent analyse og evt kommunikasjonsplan gjennomført?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -355,7 +415,31 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er det gjennomført revisjon av sosialt ansvar i kontrakter?"
+                        "Value": "Er søknad om IG (igangsettelse) godkjent?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er risikovurdering og SHA- plan oppdatert?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er miljøplan oppdatert og fulgt opp?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -451,31 +535,7 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er FDV dokumentasjon mottatt?"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Har EDF bekreftet at FDV dokumentasjon er OK?"
-                    },
-                    {
-                        "Name": "GtProjectPhase",
-                        "Value": "Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
-                    }
-                ]
-            },
-            {
-                "Fields": [
-                    {
-                        "Name": "Title",
-                        "Value": "Er alle arkivverdige dokumenter lagret i ESA?"
+                        "Value": "Er FDV-/sluttdokumentasjon påbegynt?"
                     },
                     {
                         "Name": "GtProjectPhase",
@@ -619,6 +679,18 @@
                 "Fields": [
                     {
                         "Name": "Title",
+                        "Value": "Er alle arkivverdige dokumenter lagret i arkivsystemet?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Gjennomføre|41c4d900-ec57-4779-a218-35e302b69e21"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
                         "Value": "Er alle mangler utbedret?"
                     },
                     {
@@ -643,7 +715,55 @@
                 "Fields": [
                     {
                         "Name": "Title",
-                        "Value": "Er alle innestående beløp utbetalt til entreprenøren?"
+                        "Value": "Har driftspersonale og brukere fått nødvendig opplæring?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|2adec1fc-dc6d-4db7-bb5f-067287010fb7"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det skrevet sluttrapport med sluttregnskap?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|2adec1fc-dc6d-4db7-bb5f-067287010fb7"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er det skrevet evalueringsrapporter av entreprenørene?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|2adec1fc-dc6d-4db7-bb5f-067287010fb7"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle innestående beløp utbetalt til entreprenørene?"
+                    },
+                    {
+                        "Name": "GtProjectPhase",
+                        "Value": "Avslutte|2adec1fc-dc6d-4db7-bb5f-067287010fb7"
+                    }
+                ]
+            },
+            {
+                "Fields": [
+                    {
+                        "Name": "Title",
+                        "Value": "Er alle arkivverdige dokumenter lagret i arkivsystemet?"
                     },
                     {
                         "Name": "GtProjectPhase",
