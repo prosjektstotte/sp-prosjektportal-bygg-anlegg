@@ -152,7 +152,8 @@
                 ],
                 "RemoveExisitingContentTypes": "true",
                 "ContentTypes": [
-                    "Prosjektdokument"
+                    "Prosjektdokument",
+                    "Mappe"
                 ]
             }
         ],
