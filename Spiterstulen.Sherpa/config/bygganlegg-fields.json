@@ -9,22 +9,6 @@
       "Type":"DateTime"
    },
    {
-      "Description":"Beskriv målsetningen med dette bygg/anleggsprosjektet",
-      "DisplayName":"Målsetning",
-      "Group":"Glittertind Områdekolonner",
-      "ID":"018f09b8-4954-41bb-a8f6-fa531b90b79f",
-      "InternalName":"GtProjectGoals",
-      "Type":"Note"
-   },
-   {
-      "Description":"",
-      "DisplayName":"Prosjektnavn i Økonomisystemet",
-      "Group":"PP Bygg og Anlegg Områdekolonner",
-      "ID":"983d5ab3-0a6c-4f6a-a7b5-d34d52d73676",
-      "InternalName":"GtBAProjectFinanceName",
-      "Type":"Text"
-   },
-   {
       "DisplayName":"Investeringsfase",
       "InternalName":"GtBAProjectInvestementPhase",
       "Default":"F0",
@@ -68,6 +52,7 @@
       "Default":"Ikke aktuelt",
       "Choices":[
          "Ikke aktuelt",
+         "Skal undersøkes/vurderes",
          "Dialog med tilskuddsyter opprettet",
          "Har søkt",
          "Har fått tilsagn",

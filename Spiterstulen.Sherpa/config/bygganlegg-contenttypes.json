@@ -3,9 +3,9 @@
       "Description"    : "",
       "DisplayName"    : "Prosjektforside",
       "Fields"         : [
+         "GtProjectFinanceName",
          "GtProjectNumber",
          "GtArchiveReference",
-         "GtBAProjectFinanceName",
          "GtProjectServiceArea",
          "GtProjectType",
          "GtProjectPhase",
