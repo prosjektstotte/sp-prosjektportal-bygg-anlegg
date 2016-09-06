@@ -42,7 +42,7 @@
         {
 	    	"Name": "",
 	    	"Url": "SitePages/Forside.aspx",
-	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo","GtProjectPhase"],
+	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo"],
 	        "RowLimit": 10,
             "Paged":true,
 	        "Query": "<OrderBy><FieldRef Name='Created' Ascending='FALSE' /></OrderBy>"
@@ -50,7 +50,7 @@
         {
 	    	"Name": "",
 	    	"Url": "SitePages/Ufiltrert.aspx",
-	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo","GtProjectPhase"],
+	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo"],
 	        "RowLimit": 100,
             "Paged":true,
 	        "Query": "<OrderBy><FieldRef Name='Created' Ascending='FALSE' /></OrderBy><GroupBy Collapse='TRUE'><FieldRef Name='GtProjectPhase' /></GroupBy>"
