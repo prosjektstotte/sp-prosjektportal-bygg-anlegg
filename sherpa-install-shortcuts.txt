@@ -1,0 +1,17 @@
+--url https://tarjeieo.sharepoint.com/sites/ppaug-standard --path C:\code\sp-prosjektportal\Glittertind.SharePoint\Glittertind.SharePoint.Sherpa --conf gtsitehierarchy.json --spo
+
+--url https://tarjeieo.sharepoint.com/sites/ppaug-anlegg --path C:\code\sp-prosjektportal\Glittertind.SharePoint\Glittertind.SharePoint.Sherpa --conf gtsitehierarchy.json --spo
+Op: (1), 2, 3, 4, 5
+--url https://tarjeieo.sharepoint.com/sites/ppaug-anlegg --path C:\code\sp-prosjektportal-bygg-anlegg\Spiterstulen.Sherpa --conf anlegg-sitehierarchy.json --spo
+Op: (1), 3, 4, 8
+
+--url https://tarjeieo.sharepoint.com/sites/ppaug-bygg --path C:\code\sp-prosjektportal\Glittertind.SharePoint\Glittertind.SharePoint.Sherpa --conf gtsitehierarchy.json --spo
+Op: (1), 2, 3, 4, 5
+--url https://tarjeieo.sharepoint.com/sites/ppaug-bygg --path C:\code\sp-prosjektportal-bygg-anlegg\Spiterstulen.Sherpa --conf bygg-sitehierarchy.json --spo
+Op: (1), 3, 4, 8
+
+
+--url https://tarjeieo.sharepoint.com/sites/pp-anlegg-full --path C:\temp\pp-ba-full --conf full-anlegg-sitehierarchy.json --spo
+Op: (1), 2, 3, 4, 5, 8
+--url https://tarjeieo.sharepoint.com/sites/pp-bygg-full --path C:\temp\pp-ba-full --conf full-bygg-sitehierarchy.json --spo
+Op: (1), 2, 3, 4, 5, 8

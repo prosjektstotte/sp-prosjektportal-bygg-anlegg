@@ -49,10 +49,10 @@
       "InternalName":"GtBAProjectSupport",
       "Format":"Dropdown",
       "Type":"Choice",
-      "Default":"Ikke aktuelt",
+      "Default":"Skal undersøkes/vurderes",
       "Choices":[
-         "Ikke aktuelt",
          "Skal undersøkes/vurderes",
+         "Ikke aktuelt",
          "Dialog med tilskuddsyter opprettet",
          "Har søkt",
          "Har fått tilsagn",
