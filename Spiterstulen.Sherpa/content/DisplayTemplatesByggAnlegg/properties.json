@@ -3,7 +3,7 @@
         "Path": "Glittertind_Control_Table_bygganlegg.js",
         "Url": "Glittertind_Control_Table_bygganlegg.js",
         "Properties": {
-            "Title": "Kontroll for Prosjektdetaljer Bygg/Anlegg",
+            "Title": "Glittertind Kontroll for Bygg/Anlegg-detaljer",
             "MasterPageDescription": "",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106601",
             "DisplayTemplateLevel": "Control",
@@ -15,7 +15,7 @@
         "Path": "Glittertind_Item_Project_details_bygganlegg.js",
         "Url": "Glittertind_Item_Project_details_bygganlegg.js",
         "Properties": {
-            "Title": "Prosjektdetaljer Bygg/Anlegg",
+            "Title": "Glittertind Prosjektdetaljer Bygg/Anlegg",
             "MasterPageDescription": "",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603",
             "DisplayTemplateLevel": "Item",
@@ -28,7 +28,7 @@
         "Path": "Glittertind_Control_Table_bygganlegg.html",
         "Url": "Glittertind_Control_Table_bygganlegg.html",
         "Properties": {
-            "Title": "Kontroll for Prosjektdetaljer Bygg/Anlegg",
+            "Title": "Glittertind Kontroll for Bygg/Anlegg-detaljer",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603"
         }
     },
@@ -36,7 +36,7 @@
         "Path": "Glittertind_Item_Project_details_bygganlegg.html",
         "Url": "Glittertind_Item_Project_details_bygganlegg.html",
         "Properties": {
-            "Title": "Prosjektdetaljer Bygg/Anlegg",
+            "Title": "Glittertind Prosjektdetaljer Bygg/Anlegg",
             "ContentTypeId": "0x0101002039C03B61C64EC4A04F5361F385106603"
         }
     }
