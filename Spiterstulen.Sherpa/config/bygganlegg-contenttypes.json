@@ -42,7 +42,7 @@
             "GtBAProjectBudgetThisYear",
             "GtBAProjectReserves"
         ],
-        "Group": "Glittertind Innholdstyper",
+        "Group": "Prosjektportalen bygg og anlegg innholdstyper",
         "HiddenFields": [
             "GtAverageRisk",
             "GtBAProjectUncertainty",
