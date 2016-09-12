@@ -33,6 +33,7 @@ ms_outHtml.push('',''
 	            if (statusToCheck === 'etter plan') return 'status-red';
 	            else if (statusToCheck === 'forsinket') return 'status-red';
 	            else if (statusToCheck === 'foran plan') return 'status-green';
+	            else if (statusToCheck.indexOf('mindre forsinkelse') > -1) return 'status-yellow';
 	            else if (statusToCheck === 'på plan') return 'status-green';
 	            else if (statusToCheck === 'høy') return 'status-red';
 	            else if (statusToCheck === 'medium') return 'status-yellow';
