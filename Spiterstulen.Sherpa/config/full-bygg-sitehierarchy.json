@@ -18,11 +18,11 @@
         "interessenter.data.json",
         "lenker.data.json"
     ],
-    "SandboxedSolutions": [
-        "Glittertind.SharePoint.wsp"
-    ],
     "SearchConfigurations": [
         "Prosjektportalen-konfigurasjon.xml"
+    ],
+    "SandboxedSolutions": [
+        "Glittertind.SharePoint.wsp"
     ],
     "SiteFeatures": [
         {

@@ -12,14 +12,14 @@
         "gtcontenttypes.json",
         "bygganlegg-contenttypes.json"
     ],
-    "SearchConfigurations": [
-        "Prosjektportalen-konfigurasjon.xml"
-    ],
     "ImportDataConfigurations": [
         "anlegg/fasesjekkliste.data.json",
         "anlegg/oppgaver.data.json",
         "interessenter.data.json",
         "lenker.data.json"
+    ],
+    "SearchConfigurations": [
+        "Prosjektportalen-konfigurasjon.xml"
     ],
     "SandboxedSolutions": [
         "Glittertind.SharePoint.wsp"
