@@ -65,6 +65,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "701d0a81-8d67-4481-afd0-e8fd760f2ffc",
         "InternalName": "GtBAProjectSupportComment",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -73,6 +74,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "54c61f49-34a7-43ff-8584-faec900b41da",
         "InternalName": "GtBAProjectQuality",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -95,6 +97,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "bd406db7-b4ed-4023-99dd-419c21dc74b3",
         "InternalName": "GtBAProjectSHAComment",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -117,6 +120,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "6aab6859-1490-4059-8047-1f6ad55558b8",
         "InternalName": "GtBAProjectEnvComment",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -134,6 +138,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "a4d6090e-7a3f-4572-93bb-c9c8564225ed",
         "InternalName": "GtBAProjectPoliticalComment",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -151,6 +156,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "cfbd305e-93e0-43d3-b066-cfb37a08fa99",
         "InternalName": "GtBAProjectUncertainty",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
     {
@@ -221,6 +227,7 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "89ac5b90-e605-4de6-921c-7a35fa1a144a",
         "InternalName": "GtBAProjectStatusCaseComment",
+        "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     }
 ]
