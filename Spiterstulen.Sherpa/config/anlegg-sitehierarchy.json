@@ -182,7 +182,6 @@
                 "FolderName": "DefaultDocumentFolders",
                 "ListName": "Standarddokumenter",
                 "FolderUrl": "",
-                "PropertiesFile": "properties.json",
                 "ExcludeExtensions": ".xml,.placeholder"
             },
             {
