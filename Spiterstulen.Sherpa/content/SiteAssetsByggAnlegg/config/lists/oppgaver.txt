@@ -7,7 +7,7 @@
 	    {
 	    	"Name": "Alle oppgaver",
 	        "ViewFields": ["Checkmark", "LinkTitle", "StartDate", "DueDate", "AssignedTo", "GtProjectPhase", "Modified", "Editor"],
-	        "RowLimit": 0,
+	        "RowLimit": 500,
             "Paged":true,
 	        "Query": ""
 	    },
@@ -34,7 +34,7 @@
 		{
 	    	"Name": "Åpne oppgaver",
 	        "ViewFields": ["LinkTitle", "StartDate", "DueDate", "AssignedTo", "GtProjectPhase", "PercentComplete"],
-	        "RowLimit": 100,
+	        "RowLimit": 500,
             "Paged":true,
 	        "Query": "<Where><Lt><FieldRef Name='PercentComplete' /><Value Type='Number'>1.0</Value></Lt></Where>",
 			"DefaultView": true
