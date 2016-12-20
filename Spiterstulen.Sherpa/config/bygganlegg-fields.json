@@ -1,7 +1,7 @@
 [
     {
         "Description": "",
-        "DisplayName": "Overtakelsesdato",
+        "DisplayName": "Siste godkjente overtakelsesdato",
         "Format": "DateOnly",
         "Group": "Prosjektportalen områdekolonner",
         "ID": "16623c2a-3fd1-41c2-87e7-958583dd88da",
@@ -9,7 +9,16 @@
         "Type": "DateTime"
     },
     {
-        "DisplayName": "Investeringsfase",
+        "Description": "",
+        "DisplayName": "Opprinnelig overtakelsesdato",
+        "Format": "DateOnly",
+        "Group": "Prosjektportalen bygg og anlegg områdekolonner",
+        "ID": "b0d0e11a-e424-4d7f-81c8-aab265c644e9",
+        "InternalName": "GtBAEndDateOriginal",
+        "Type": "DateTime"
+    },
+    {
+        "DisplayName": "HP-fase",
         "InternalName": "GtBAProjectInvestementPhase",
         "Default": "F0",
         "Description": "",
@@ -22,12 +31,21 @@
             "F1",
             "F2",
             "F3",
+            "S (Sekkepost)",
             "Ikke relevant"
         ]
     },
     {
         "Description": "",
-        "DisplayName": "Budsjettramme (i mill. NOK)",
+        "DisplayName": "Opprinnelig budsjett (i mill. NOK)",
+        "Group": "Prosjektportalen bygg og anlegg områdekolonner",
+        "ID": "73b182c2-b4d5-4b5f-9fd6-9b822de73d93",
+        "InternalName": "GtBAProjectBudgetOriginal",
+        "Type": "Number"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Sist godkjente budsjett (i mill. NOK)",
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "273fd5f5-f04b-4458-8062-2413003c4a44",
         "InternalName": "GtBAProjectBudgetLimit",
