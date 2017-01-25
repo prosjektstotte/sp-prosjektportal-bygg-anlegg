@@ -45,6 +45,17 @@ ms_outHtml.push('',''
 
 	            return 'status-unknown';
             };
+            
+            window.GT.GetTotal = function(property) {
+                var resultTables = ctx.ListData.ResultTables;
+                var resultRows = resultTables[0].ResultRows;
+                var array = resultRows.map(function(row) {
+                    return row.hasOwnProperty(property) ? row[property] ? parseFloat(row[property]) : 0 : 0;
+                });
+                var total = array.reduce(function(a, b) { return a + b; }, 0);
+                return total.toFixed(0);
+            };
+
             var ListRenderRenderWrapper = function(itemRenderResult, inCtx, tpl)
             {
                 var iStr = [];
@@ -78,6 +89,20 @@ ms_outHtml.push(''
 ,'		</thead>'
 ,'		<tbody>'
 ,'           ', ctx.RenderGroups(ctx) ,''
+,'            <tr>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td title="Total - Budsjett"><b>Sum:<br />', window.GT.GetTotal("GtBAProjectBudgetLimitOWSNMBR") ,'</b></td>'
+,'                <td title="Total - Totalprognose"><b>Sum:<br />', window.GT.GetTotal("GtBAProjectTotalPrognosisOWSNMBR") ,'</b></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'                <td></td>'
+,'            </tr>'
 ,'		 </tbody>'
 ,'	</table>'
 );

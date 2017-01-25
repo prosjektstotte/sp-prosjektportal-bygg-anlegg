@@ -99,6 +99,20 @@ _#-->
 		</thead>
 		<tbody>
            _#= ctx.RenderGroups(ctx) =#_
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td title="Total - Budsjett"><b>Sum:<br />_#= window.GT.GetTotal("GtBAProjectBudgetLimitOWSNMBR") =#_</b></td>
+                <td title="Total - Totalprognose"><b>Sum:<br />_#= window.GT.GetTotal("GtBAProjectTotalPrognosisOWSNMBR") =#_</b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
 		 </tbody>
 	</table>
 <!--#_
