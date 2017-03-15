@@ -1,20 +1,37 @@
 [
-   {
-      "Description"  : "",
-      "DisplayName"  : "Produksjonsfase",
-      "Group"        : "Prosjektportalen Områdekolonner",
-      "ID"           : "5563056f-533f-4333-bd29-85a2f94a37d0",
-      "InternalName" : "GtProductPhase",
-      "TermSetId"    : "ec5ceb95-7259-4282-811f-7c57304be71e",
-      "Type"         : "TaxonomyFieldType"
-   },
-   {
-      "Description"  : "",
-      "DisplayName"  : "Fase",
-      "Group"        : "Prosjektportalen Områdekolonner",
-      "ID"           : "325543a5-815d-485d-a9a5-e0773ad762e9",
-      "InternalName" : "GtProjectPhase",
-      "TermSetId"    : "ec5ceb95-7259-4282-811f-7c57304be71e",
-      "Type"         : "TaxonomyFieldType"
-   }
+    {
+        "Description": "",
+        "DisplayName": "Produksjonsfase",
+        "Group": "Prosjektportalen Områdekolonner",
+        "ID": "5563056f-533f-4333-bd29-85a2f94a37d0",
+        "InternalName": "GtProductPhase",
+        "TermSetId": "ec5ceb95-7259-4282-811f-7c57304be71e",
+        "Type": "TaxonomyFieldType"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Fase",
+        "Group": "Prosjektportalen Områdekolonner",
+        "ID": "325543a5-815d-485d-a9a5-e0773ad762e9",
+        "InternalName": "GtProjectPhase",
+        "TermSetId": "ec5ceb95-7259-4282-811f-7c57304be71e",
+        "Type": "TaxonomyFieldType"
+    },
+    {
+        "Choices": [
+            "Under budsjett",
+            "På budsjett",
+            "Mindre overskridelser / overskridelser som kan tas igjen",
+            "Over budsjett",
+            "Vet ikke"
+        ],
+        "Default": "På budsjett",
+        "Description": "",
+        "DisplayName": "Status budsjett",
+        "Format": "RadioButtons",
+        "Group": "Prosjektportalen områdekolonner",
+        "ID": "a9902b9d-8aad-40df-9788-ba73c64c3cb5",
+        "InternalName": "GtStatusBudget",
+        "Type": "Choice"
+    },
 ]
