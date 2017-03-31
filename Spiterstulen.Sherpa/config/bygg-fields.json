@@ -16,22 +16,5 @@
         "InternalName": "GtProjectPhase",
         "TermSetId": "ec5ceb95-7259-4282-811f-7c57304be71e",
         "Type": "TaxonomyFieldType"
-    },
-    {
-        "Choices": [
-            "Under budsjett",
-            "På budsjett",
-            "Mindre overskridelser / overskridelser som kan tas igjen",
-            "Over budsjett",
-            "Vet ikke"
-        ],
-        "Default": "På budsjett",
-        "Description": "",
-        "DisplayName": "Status budsjett",
-        "Format": "RadioButtons",
-        "Group": "Prosjektportalen områdekolonner",
-        "ID": "a9902b9d-8aad-40df-9788-ba73c64c3cb5",
-        "InternalName": "GtStatusBudget",
-        "Type": "Choice"
-    },
+    }
 ]
