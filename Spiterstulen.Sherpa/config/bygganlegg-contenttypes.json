@@ -6,6 +6,7 @@
             "GtProjectFinanceName",
             "GtProjectNumber",
             "GtArchiveReference",
+            "GtBADocumentLink",
             "GtProjectServiceArea",
             "GtProjectType",
             "GtProjectPhase",

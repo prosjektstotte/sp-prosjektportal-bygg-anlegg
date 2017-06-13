@@ -98,6 +98,7 @@
                         "Title": "Alle elementer",
                         "Rowlimit": 100,
                         "ViewFields": [
+                            "GtSortOrder",
                             "LinkTitle",
                             "GtProjectPhase",
                             "Modified",

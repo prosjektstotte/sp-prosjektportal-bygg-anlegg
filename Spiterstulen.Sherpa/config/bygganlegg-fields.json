@@ -74,7 +74,9 @@
             "Dialog med tilskuddsyter opprettet",
             "Har søkt",
             "Har fått tilsagn",
-            "Har fått avslag"
+            "Har fått avslag",
+            "Søkt utbetaling",
+            "Har fått utbetalt"
         ]
     },
     {
@@ -92,6 +94,15 @@
         "Group": "Prosjektportalen bygg og anlegg områdekolonner",
         "ID": "54c61f49-34a7-43ff-8584-faec900b41da",
         "InternalName": "GtBAProjectQuality",
+        "UnlimitedLengthInDocumentLibrary": true,
+        "Type": "Note"
+    },
+    {
+        "Description": "",
+        "DisplayName": "Link til andre dokumenter",
+        "Group": "Prosjektportalen bygg og anlegg områdekolonner",
+        "ID": "1578e6a1-c074-4ad2-b3f0-9631fd4c27eb",
+        "InternalName": "GtBADocumentLink",
         "UnlimitedLengthInDocumentLibrary": true,
         "Type": "Note"
     },
